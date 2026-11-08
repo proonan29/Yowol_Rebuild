@@ -26,6 +26,7 @@ namespace Yowol
         readonly TextMeshProUGUI[] skillNames = new TextMeshProUGUI[2];
         readonly TextMeshProUGUI[] skillTimers = new TextMeshProUGUI[2];
         RectTransform bossBar; Image bossFill; TextMeshProUGUI bossName; Health bossHealth;
+        TextMeshProUGUI timerText, counterText;
         CanvasGroup banner; TextMeshProUGUI bannerTitle, bannerSub;
         CanvasGroup warning; TextMeshProUGUI warningText;
         CanvasGroup dialogue; TextMeshProUGUI dialogueName, dialogueBody, dialoguePrompt; Image dialoguePortrait;
@@ -107,6 +108,12 @@ namespace Yowol
                                     new Vector2(0.5f, 1), new Vector2(0.5f, 1), new Vector2(0, 6), new Vector2(1000, 44), true);
             bossName.outlineWidth = 0.2f;
             bossBar.gameObject.SetActive(false);
+            timerText = UIBuild.Text("GimmickTimer", root, "", 72, new Color(1f, 0.4f, 0.5f), TextAlignmentOptions.Center,
+                                     new Vector2(0.5f, 1), new Vector2(0.5f, 1), new Vector2(0, -165), new Vector2(600, 90), true);
+            timerText.outlineWidth = 0.2f;
+            counterText = UIBuild.Text("Counter", root, "", 40, new Color(0.85f, 0.7f, 1f), TextAlignmentOptions.Center,
+                                       new Vector2(0.5f, 1), new Vector2(0.5f, 1), new Vector2(0, -105), new Vector2(900, 60), true);
+            counterText.outlineWidth = 0.2f;
 
             // ---------------- Banner & warning
             var bannerRt = UIBuild.Rect("Banner", root, new Vector2(0.5f, 0.62f), new Vector2(0.5f, 0.62f), new Vector2(0.5f, 0.5f), Vector2.zero, new Vector2(1400, 220));
@@ -231,6 +238,16 @@ namespace Yowol
         }
 
         public void HideBoss() => bossBar.gameObject.SetActive(false);
+
+        /// <summary>Large countdown under the boss bar (negative hides it).</summary>
+        public void SetTimer(float seconds)
+        {
+            timerText.text = seconds < 0f ? "" : seconds.ToString(seconds < 5f ? "0.0" : "0");
+            timerText.color = seconds < 5f ? new Color(1f, 0.25f, 0.3f) : new Color(1f, 0.6f, 0.65f);
+        }
+
+        /// <summary>Small status line under the boss bar, e.g. "사슬 2/3" (empty hides it).</summary>
+        public void SetCounter(string text) => counterText.text = text ?? "";
 
         public void ShowBanner(string title, string sub, float hold = 2.2f) => StartCoroutine(BannerRoutine(title, sub, hold));
 

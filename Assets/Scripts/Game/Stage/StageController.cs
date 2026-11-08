@@ -38,7 +38,7 @@ namespace Yowol
         [Header("Boss")]
         public BossWitch boss;
         [TextArea] public string[] bossIntroLines;
-        [TextArea] public string victoryText = "혼령의 마녀를 쓰러뜨렸습니다.\n\n요월 : 혼령의 달  (데모 클리어)";
+        [TextArea] public string victoryText = "사흉의 일원 『혼돈』을 쓰러뜨렸습니다.\n\n요월 : 혼령의 달  (데모 클리어)";
 
         public bool Cleared { get; private set; }
 

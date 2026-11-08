@@ -159,7 +159,7 @@ MonoBehaviour:
   m_Light2DProvider:
     rid: -2
   m_SelectionSources:
-    rid: 6081342936441946257
+    rid: 6081342936441946270
   m_FalloffIntensity: 0.7
   m_Color: {r: 0.62, g: 0.4, b: 1, a: 1}
   m_Intensity: 1.1
@@ -205,7 +205,7 @@ MonoBehaviour:
     RefIds:
     - rid: -2
       type: {class: , ns: , asm: }
-    - rid: 6081342936441946257
+    - rid: 6081342936441946270
       type: {class: Light2DProviderSources, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.2D.Runtime}
       data:
         m_SelectedHashCode: 3
@@ -370,7 +370,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Yowol.BossWitch
   visual: {fileID: 6885126301325558453}
   anim: {fileID: 4085364666897673229}
-  maxHp: 1600
+  maxHp: 1800
   contactDamage: 10
   knockbackResist: 0
   countsForStageClear: 0
@@ -378,10 +378,19 @@ MonoBehaviour:
   arenaMaxX: 8
   groundY: 0
   hoverHeight: 2.6
-  bossName: "\uD63C\uB839\uC758 \uB9C8\uB140"
+  standingHeight: 3.1
+  bossName: "\uD63C\uB3C8"
   moveSpeed: 2.4
-  patternGap: 1.6
-  orbDamage: 14
-  pillarDamage: 20
-  dashDamage: 18
+  patternGap: 1.3
+  laserDamage: 24
+  fireHitDamage: 16
+  floorTickDamage: 6
+  homingDamage: 20
+  chainDamage: 14
   soulColor: {r: 0.62, g: 0.4, b: 1, a: 1}
+  firstGroggyHits: 3
+  secondGroggyHits: 5
+  groggyDuration: 5
+  groggyDamageMultiplier: 1.5
+  gimmickTime: 15
+  altarHp: 260

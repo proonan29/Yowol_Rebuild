@@ -37,6 +37,9 @@ namespace Yowol
         public Sprite[] weaponIcons = new Sprite[3];
         public Sprite guidePortrait;
 
+        [Header("Boss art")]
+        public Sprite chainLink, chainTip, specialChain, altar;
+
         [Header("Prefabs")]
         public GameObject playerPrefab;
         public GameObject reaperPrefab;

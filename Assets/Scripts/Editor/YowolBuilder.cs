@@ -172,9 +172,9 @@ namespace Yowol.EditorTools
 
         struct FxSheet
         {
-            public string path, clip; public int cols, rows, count; public float frame, ppu; public bool loop;
-            public FxSheet(string path, string clip, int cols, int rows, int count, float frame, float ppu, bool loop)
-            { this.path = path; this.clip = clip; this.cols = cols; this.rows = rows; this.count = count; this.frame = frame; this.ppu = ppu; this.loop = loop; }
+            public string path, clip; public int cols, rows, count; public float frame, ppu; public bool loop; public Vector2 pivot;
+            public FxSheet(string path, string clip, int cols, int rows, int count, float frame, float ppu, bool loop, float pivotY = 0.5f)
+            { this.path = path; this.clip = clip; this.cols = cols; this.rows = rows; this.count = count; this.frame = frame; this.ppu = ppu; this.loop = loop; pivot = new Vector2(0.5f, pivotY); }
         }
 
         static readonly FxSheet[] FxSheets =
@@ -193,6 +193,17 @@ namespace Yowol.EditorTools
             new FxSheet("Bow/Bow_Skill_2/projectile_sheet_2x4.png", "BowBeam", 2, 4, 8, 0.04f, 200, true),
             new FxSheet("L_Sword/L_Swrod_Skill_0/L_Sword_Skill_0.png", "GreatSlash", 4, 2, 8, 0.035f, 170, false),
             new FxSheet("L_Sword/L_Swrod_Skill_1/Cross_Wave_sheet.png", "CrossWave", 4, 2, 7, 0.045f, 200, false),
+            // Boss "혼돈" (YowolBossNew package). Pivots sit on the ground endpoint of each effect.
+            new FxSheet("Assets/Art/FX/Boss/laser_telegraph.png", "LaserTelegraph", 2, 2, 4, 0.12f, 40, true, 0.074f),
+            new FxSheet("Assets/Art/FX/Boss/laser_start.png", "LaserStart", 4, 2, 8, 0.04f, 40, false, 0.05f),
+            new FxSheet("Assets/Art/FX/Boss/laser_sustain.png", "LaserLoop", 4, 2, 8, 0.06f, 40, true, 0.05f),
+            new FxSheet("Assets/Art/FX/Boss/laser_end.png", "LaserEnd", 4, 2, 8, 0.045f, 40, false, 0.05f),
+            new FxSheet("Assets/Art/FX/Boss/fire_flame.png", "FireFlame", 4, 2, 8, 0.08f, 300, true),
+            new FxSheet("Assets/Art/FX/Boss/fire_explosion.png", "FireBoom", 4, 2, 8, 0.06f, 150, false, 0.074f),
+            new FxSheet("Assets/Art/FX/Boss/fire_floor_start.png", "FireFloorStart", 4, 2, 8, 0.05f, 155, false, 0.168f),
+            new FxSheet("Assets/Art/FX/Boss/fire_floor_sustain.png", "FireFloorLoop", 4, 2, 8, 0.1f, 155, true, 0.168f),
+            new FxSheet("Assets/Art/FX/Boss/fire_floor_end.png", "FireFloorEnd", 4, 2, 8, 0.06f, 155, false, 0.168f),
+            new FxSheet("Assets/Art/FX/Boss/fire_dust.png", "FireDust", 4, 2, 8, 0.06f, 200, false, 0.076f),
         };
 
         [MenuItem("Yowol/Steps/2 Import FX")]
@@ -202,7 +213,7 @@ namespace Yowol.EditorTools
             lib.clips.Clear();
             foreach (var s in FxSheets)
             {
-                string path = "Assets/Art/FX/Skill/" + s.path;
+                string path = s.path.StartsWith("Assets/") ? s.path : "Assets/Art/FX/Skill/" + s.path;
                 var tex = AssetDatabase.LoadAssetAtPath<Texture2D>(path);
                 if (tex == null) { Debug.LogWarning("FX missing " + path); continue; }
                 var importer = (TextureImporter)AssetImporter.GetAtPath(path);
@@ -213,7 +224,7 @@ namespace Yowol.EditorTools
                 {
                     int cx = i % s.cols, cy = i / s.cols;
                     var r = new Rect(Mathf.Floor(cx * cw), Mathf.Floor(h - (cy + 1) * ch), Mathf.Floor(cw), Mathf.Floor(ch));
-                    rects.Add(($"{s.clip}_{i:00}", r, new Vector2(0.5f, 0.5f)));
+                    rects.Add(($"{s.clip}_{i:00}", r, s.pivot));
                 }
                 Slice(path, rects, s.ppu, 8192);
                 var sprites = SpritesAt(path);
@@ -395,7 +406,7 @@ namespace Yowol.EditorTools
             boss.AddComponent<Health>();
             boss.AddComponent<HitFlash>();
             var bw = boss.AddComponent<BossWitch>();
-            bw.visual = banim.transform; bw.anim = banim; bw.maxHp = 1600; bw.contactDamage = 10; bw.countsForStageClear = false;
+            bw.visual = banim.transform; bw.anim = banim; bw.maxHp = 1800; bw.contactDamage = 10; bw.countsForStageClear = false;
             AddPointLight(boss.transform, new Vector3(0, -1.2f, 0), new Color(0.62f, 0.4f, 1f), 5f, 1.1f);
             PrefabUtility.SaveAsPrefabAsset(boss, $"{PrefabRoot}/Boss_SoulWitch.prefab");
             Object.DestroyImmediate(boss);
@@ -427,6 +438,27 @@ namespace Yowol.EditorTools
             return s;
         }
 
+        static Sprite ImportSingle(string path, float ppu, Vector2 pivot, bool repeat)
+        {
+            var imp = (TextureImporter)AssetImporter.GetAtPath(path);
+            if (imp == null) { Debug.LogWarning("[YowolBuilder] missing " + path); return null; }
+            imp.textureType = TextureImporterType.Sprite;
+            imp.spriteImportMode = SpriteImportMode.Single;
+            imp.spritePixelsPerUnit = ppu;
+            imp.mipmapEnabled = false;
+            imp.alphaIsTransparency = true;
+            imp.wrapMode = repeat ? TextureWrapMode.Repeat : TextureWrapMode.Clamp;
+            var st = new TextureImporterSettings();
+            imp.ReadTextureSettings(st);
+            st.spriteMeshType = SpriteMeshType.FullRect;
+            st.spriteAlignment = (int)SpriteAlignment.Custom;
+            st.spritePivot = pivot;
+            st.spriteGenerateFallbackPhysicsShape = false;
+            imp.SetTextureSettings(st);
+            imp.SaveAndReimport();
+            return AssetDatabase.LoadAssetAtPath<Sprite>(path);
+        }
+
         [MenuItem("Yowol/Steps/6 Game Assets")]
         public static string MakeGameAssets()
         {
@@ -450,6 +482,10 @@ namespace Yowol.EditorTools
                 SpriteAt("Assets/Art/Sprites/Public/Dual_Sword.png"),
             };
             a.guidePortrait = SpriteAt("Assets/Art/Sprites/Aspic_Eyes.png");
+            a.chainLink = ImportSingle("Assets/Art/Boss/Boss_Chain.png", 420, new Vector2(0f, 0.506f), true);
+            a.chainTip = ImportSingle("Assets/Art/Boss/Boss_Chain_End.png", 420, new Vector2(1f, 0.49f), false);
+            a.specialChain = ImportSingle("Assets/Art/Boss/Chain.png", 400, new Vector2(0f, 0.48f), true);
+            a.altar = ImportSingle("Assets/Art/Boss/Altar.png", 460, new Vector2(0.5f, 0.02f), false);
             a.playerPrefab = Load<GameObject>($"{PrefabRoot}/Player.prefab");
             a.reaperPrefab = Load<GameObject>($"{PrefabRoot}/Reaper.prefab");
 
@@ -879,10 +915,10 @@ namespace Yowol.EditorTools
             Wall("Wall_Right", new Vector2(halfW + 0.5f, 6f), new Vector2(1f, 20f));
             Kill(new Vector2(0, groundY - 8f), new Vector2(40f, 2f));
 
-            var sc = MakeStageController("BOSS", "혼령의 마녀", new Vector3(-6f, groundY + 0.2f), new Rect(-halfW, groundY - 1.6f, halfW * 2f, 13f), 6f);
+            var sc = MakeStageController("BOSS", "사흉 - 혼돈", new Vector3(-6f, groundY + 0.2f), new Rect(-halfW, groundY - 1.6f, halfW * 2f, 13f), 6f);
             sc.cameraOffset = new Vector2(0f, 3f);
             sc.requireClear = false;
-            sc.bossIntroLines = new[] { "저 녀석이... 이 혼돈의 근원이에요!", "『혼령의 마녀』. 조심하세요, 창조자님!" };
+            sc.bossIntroLines = new[] { "저 녀석이 사흉의 일원, 『혼돈』이에요!", "보라색 해골 사슬이 박히면 공격하세요. 혼돈을 무너뜨릴 수 있어요!", "그리고... 혼돈이 힘을 모으면 제단을 부숴야 해요. 조심하세요, 창조자님!" };
             sc.clearLines = new[] { "해냈어요, 창조자님!", "달빛이... 조금 돌아온 것 같아요." };
 
             var bossPrefab = Load<GameObject>($"{PrefabRoot}/Boss_SoulWitch.prefab");

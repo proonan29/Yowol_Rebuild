@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: d859c5454f2be3343868adf29dcaa320
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9091711149725534396
+    second: laser_telegraph_0
+  - first:
+      213: -7589189464621027832
+    second: laser_telegraph_1
+  - first:
+      213: 3984413053082577028
+    second: laser_telegraph_2
+  - first:
+      213: 8136025288913838793
+    second: laser_telegraph_3
+  - first:
+      213: 1972036569445539203
+    second: laser_telegraph_4
+  - first:
+      213: -7495519384671722420
+    second: laser_telegraph_5
+  - first:
+      213: 368363863725566980
+    second: laser_telegraph_6
+  - first:
+      213: -5816940709182258755
+    second: laser_telegraph_7
+  - first:
+      213: 146775958955117931
+    second: laser_telegraph_8
+  - first:
+      213: -5409394096309697880
+    second: laser_telegraph_9
+  - first:
+      213: -7843152274103469267
+    second: laser_telegraph_10
+  - first:
+      213: -8601987091891626882
+    second: laser_telegraph_11
+  - first:
+      213: -436005653297728947
+    second: laser_telegraph_12
+  - first:
+      213: -5914188940395097686
+    second: laser_telegraph_13
+  - first:
+      213: -179308299843017645
+    second: laser_telegraph_14
+  - first:
+      213: -8388283714319709288
+    second: laser_telegraph_15
+  - first:
+      213: 3758268682529687967
+    second: laser_telegraph_16
+  - first:
+      213: -4384351704937485299
+    second: laser_telegraph_17
+  - first:
+      213: 4943565261626736261
+    second: laser_telegraph_18
+  - first:
+      213: -736164303409580300
+    second: laser_telegraph_19
+  - first:
+      213: -5537074347995614684
+    second: laser_telegraph_20
+  - first:
+      213: 5729293789994657502
+    second: laser_telegraph_21
+  - first:
+      213: 8225932830221022517
+    second: laser_telegraph_22
+  - first:
+      213: 6016514907569323319
+    second: laser_telegraph_23
+  - first:
+      213: 3962726513720279015
+    second: laser_telegraph_24
+  - first:
+      213: -7175127871526750467
+    second: laser_telegraph_25
+  - first:
+      213: -4178611257763004920
+    second: laser_telegraph_26
+  - first:
+      213: -5880435602835728868
+    second: laser_telegraph_27
+  - first:
+      213: -4310334806381359334
+    second: laser_telegraph_28
+  - first:
+      213: -4404292349625202205
+    second: laser_telegraph_29
+  - first:
+      213: 7079403219230594310
+    second: laser_telegraph_30
+  - first:
+      213: 4750114201669201647
+    second: laser_telegraph_31
+  - first:
+      213: -1254181468136574845
+    second: laser_telegraph_32
+  - first:
+      213: 6470035550556889813
+    second: laser_telegraph_33
+  - first:
+      213: 6140436589672881784
+    second: laser_telegraph_34
+  - first:
+      213: -5169437738097851682
+    second: laser_telegraph_35
+  - first:
+      213: -7746689796106683092
+    second: laser_telegraph_36
+  - first:
+      213: -6783100258346284246
+    second: laser_telegraph_37
+  - first:
+      213: 1113183920209983004
+    second: laser_telegraph_38
+  - first:
+      213: -2887499031093680229
+    second: laser_telegraph_39
+  - first:
+      213: -2234593631263831975
+    second: laser_telegraph_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LaserTelegraph_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 448
+        height: 448
+      alignment: 9
+      pivot: {x: 0.5, y: 0.074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16176cacf03a39842af54279a4e9a6bc
+      internalID: -458269134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTelegraph_01
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 448
+        height: 448
+      alignment: 9
+      pivot: {x: 0.5, y: 0.074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2f699053fdd8d438631627c224281a
+      internalID: -1949054318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTelegraph_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 448
+        height: 448
+      alignment: 9
+      pivot: {x: 0.5, y: 0.074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d5a241a5c8a47438874648e768cbc9
+      internalID: 288862743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserTelegraph_03
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 448
+        height: 448
+      alignment: 9
+      pivot: {x: 0.5, y: 0.074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953205116c59f6141a37d88d729c5fa0
+      internalID: -1610966743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9bb8fc28fbdb4e347bb61f99254be04f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LaserTelegraph_00: -458269134
+      LaserTelegraph_01: -1949054318
+      LaserTelegraph_02: 288862743
+      LaserTelegraph_03: -1610966743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
