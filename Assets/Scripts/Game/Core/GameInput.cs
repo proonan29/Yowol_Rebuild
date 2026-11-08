@@ -6,7 +6,7 @@ namespace Yowol
 {
     /// <summary>
     /// Single place for gameplay input. Keys follow the original design:
-    /// A/D (arrows) move, Space jump, Left-click (or J) attack, E skill 1, Q skill 2, 1/2/3 weapon, Esc pause.
+    /// A/D (arrows) move, W/Up jump, Space or Left-click (or J) attack, E skill 1, Q skill 2, 1/2/3 weapon, Esc pause.
     /// </summary>
     public static class GameInput
     {
@@ -70,12 +70,13 @@ namespace Yowol
         }
 
         public static bool JumpPressed => !Locked && (Sim.Jump || (K != null &&
-            (K.spaceKey.wasPressedThisFrame || K.wKey.wasPressedThisFrame || K.upArrowKey.wasPressedThisFrame)));
+            (K.wKey.wasPressedThisFrame || K.upArrowKey.wasPressedThisFrame)));
 
-        public static bool JumpHeld => Sim.jumpHeld || (K != null && (K.spaceKey.isPressed || K.wKey.isPressed || K.upArrowKey.isPressed));
+        public static bool JumpHeld => Sim.jumpHeld || (K != null && (K.wKey.isPressed || K.upArrowKey.isPressed));
 
         public static bool AttackPressed => !Locked && (Sim.Attack ||
-            (M != null && M.leftButton.wasPressedThisFrame && !PointerOverUI) || (K != null && K.jKey.wasPressedThisFrame));
+            (M != null && M.leftButton.wasPressedThisFrame && !PointerOverUI) ||
+            (K != null && (K.spaceKey.wasPressedThisFrame || K.jKey.wasPressedThisFrame)));
 
         public static bool Skill1Pressed => !Locked && (Sim.Skill1 || (K != null && (K.eKey.wasPressedThisFrame || K.kKey.wasPressedThisFrame)));
         public static bool Skill2Pressed => !Locked && (Sim.Skill2 || (K != null && (K.qKey.wasPressedThisFrame || K.lKey.wasPressedThisFrame)));

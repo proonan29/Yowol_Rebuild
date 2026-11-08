@@ -802,8 +802,8 @@ namespace Yowol.EditorTools
             var sc = MakeStageController("STAGE 1", "비 내리는 옥상 골목", new Vector3(-33f, groundY + 0.2f), new Rect(minX, groundY - 2.1f, maxX - minX, 14f), 5f);
             sc.openingLines = new[]
             {
-                "A, D를 이용해 앞으로 가십시오. Space로 점프할 수 있습니다.",
-                "마우스 왼쪽 버튼을 누르면 공격할 수 있습니다.",
+                "A, D를 이용해 앞으로 가십시오. W나 위쪽 방향키로 점프할 수 있습니다.",
+                "Space나 마우스 왼쪽 버튼을 누르면 공격할 수 있습니다.",
                 "E, Q로 무기마다 다른 스킬을 사용할 수 있어요.",
             };
             sc.clearLines = new[] { "이 근처의 혼령은 모두 정리됐어요. 앞으로 가시죠." };
