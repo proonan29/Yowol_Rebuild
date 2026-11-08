@@ -50,8 +50,8 @@ namespace Yowol
             textGroup = barBottom.gameObject.AddComponent<CanvasGroup>();
             text = UIBuild.Text("Line", barBottom.transform, "", 46, Color.white, TextAlignmentOptions.Center,
                                 new Vector2(0.5f, 0.5f), new Vector2(0.5f, 0.5f), new Vector2(0, 14), new Vector2(1600, 140), true);
-            prompt = UIBuild.Text("Prompt", barBottom.transform, "[Space] 다음      [S] 건너뛰기", 24, new Color(1, 1, 1, 0.5f), TextAlignmentOptions.BottomRight,
-                                  new Vector2(0.5f, 0), new Vector2(0.5f, 0), new Vector2(420, 18), new Vector2(1400, 34));
+            prompt = UIBuild.Text("Prompt", barBottom.transform, "[Space] 다음      [S] 건너뛰기", 24, new Color(1, 1, 1, 0.5f), TextAlignmentOptions.Bottom,
+                                  new Vector2(0.5f, 0), new Vector2(0.5f, 0), new Vector2(0, 18), new Vector2(1400, 34));
         }
 
         Image MakeImage(Transform root, string n)
