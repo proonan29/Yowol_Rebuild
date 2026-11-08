@@ -196,8 +196,8 @@ TextureImporter:
       name: Death_03
       rect:
         serializedVersion: 2
-        x: 441
-        y: 332
+        x: 2081
+        y: 320
         width: 265
         height: 326
       alignment: 9
@@ -218,8 +218,8 @@ TextureImporter:
       name: Death_04
       rect:
         serializedVersion: 2
-        x: 2054
-        y: 354
+        x: 3694
+        y: 342
         width: 367
         height: 304
       alignment: 9
@@ -240,8 +240,8 @@ TextureImporter:
       name: Death_05
       rect:
         serializedVersion: 2
-        x: 3
-        y: 110
+        x: 1432
+        y: 84
         width: 377
         height: 218
       alignment: 9
@@ -262,8 +262,8 @@ TextureImporter:
       name: Death_06
       rect:
         serializedVersion: 2
-        x: 383
-        y: 187
+        x: 1812
+        y: 161
         width: 427
         height: 141
       alignment: 9
@@ -284,8 +284,8 @@ TextureImporter:
       name: Death_07
       rect:
         serializedVersion: 2
-        x: 813
-        y: 204
+        x: 2242
+        y: 178
         width: 408
         height: 124
       alignment: 9
@@ -306,8 +306,8 @@ TextureImporter:
       name: Bow_Jump_00
       rect:
         serializedVersion: 2
-        x: 3273
-        y: 370
+        x: 852
+        y: 14
         width: 283
         height: 288
       alignment: 9
@@ -328,7 +328,7 @@ TextureImporter:
       name: Bow_Jump_04
       rect:
         serializedVersion: 2
-        x: 974
+        x: 2661
         y: 671
         width: 285
         height: 350
@@ -350,7 +350,7 @@ TextureImporter:
       name: Bow_Jump_05
       rect:
         serializedVersion: 2
-        x: 1795
+        x: 3482
         y: 679
         width: 289
         height: 342
@@ -372,7 +372,7 @@ TextureImporter:
       name: Bow_Jump_08
       rect:
         serializedVersion: 2
-        x: 3
+        x: 1690
         y: 661
         width: 310
         height: 360
@@ -394,8 +394,8 @@ TextureImporter:
       name: Bow_Jump_09
       rect:
         serializedVersion: 2
-        x: 2508
-        y: 683
+        x: 424
+        y: 308
         width: 283
         height: 338
       alignment: 9
@@ -416,8 +416,8 @@ TextureImporter:
       name: Bow_Jump_10
       rect:
         serializedVersion: 2
-        x: 3559
-        y: 390
+        x: 1138
+        y: 34
         width: 291
         height: 268
       alignment: 9
@@ -438,8 +438,8 @@ TextureImporter:
       name: GreatSword_Jump_00
       rect:
         serializedVersion: 2
-        x: 3
-        y: 331
+        x: 1643
+        y: 319
         width: 435
         height: 327
       alignment: 9
@@ -460,8 +460,8 @@ TextureImporter:
       name: GreatSword_Jump_10
       rect:
         serializedVersion: 2
-        x: 2087
-        y: 680
+        x: 3
+        y: 305
         width: 418
         height: 341
       alignment: 9
@@ -482,8 +482,8 @@ TextureImporter:
       name: Sword_JumpInPlace_00
       rect:
         serializedVersion: 2
-        x: 3058
-        y: 693
+        x: 974
+        y: 318
         width: 266
         height: 328
       alignment: 9
@@ -504,7 +504,7 @@ TextureImporter:
       name: Sword_JumpInPlace_04
       rect:
         serializedVersion: 2
-        x: 1533
+        x: 3220
         y: 678
         width: 259
         height: 343
@@ -526,8 +526,8 @@ TextureImporter:
       name: Sword_JumpInPlace_10
       rect:
         serializedVersion: 2
-        x: 1777
-        y: 347
+        x: 3417
+        y: 335
         width: 274
         height: 311
       alignment: 9
@@ -548,8 +548,8 @@ TextureImporter:
       name: Sword_JumpInPlace_11
       rect:
         serializedVersion: 2
-        x: 1109
-        y: 343
+        x: 2749
+        y: 331
         width: 259
         height: 315
       alignment: 9
@@ -570,8 +570,8 @@ TextureImporter:
       name: Bow_JumpInPlace_00
       rect:
         serializedVersion: 2
-        x: 2707
-        y: 362
+        x: 286
+        y: 6
         width: 283
         height: 296
       alignment: 9
@@ -592,7 +592,7 @@ TextureImporter:
       name: Bow_JumpInPlace_01
       rect:
         serializedVersion: 2
-        x: 711
+        x: 2398
         y: 667
         width: 260
         height: 354
@@ -614,7 +614,7 @@ TextureImporter:
       name: Bow_JumpInPlace_04
       rect:
         serializedVersion: 2
-        x: 1262
+        x: 2949
         y: 673
         width: 268
         height: 348
@@ -636,8 +636,8 @@ TextureImporter:
       name: Bow_JumpInPlace_05
       rect:
         serializedVersion: 2
-        x: 2794
-        y: 690
+        x: 710
+        y: 315
         width: 261
         height: 331
       alignment: 9
@@ -658,8 +658,8 @@ TextureImporter:
       name: Bow_JumpInPlace_10
       rect:
         serializedVersion: 2
-        x: 2424
-        y: 361
+        x: 3
+        y: 5
         width: 280
         height: 297
       alignment: 9
@@ -680,8 +680,8 @@ TextureImporter:
       name: Bow_JumpInPlace_11
       rect:
         serializedVersion: 2
-        x: 2993
-        y: 363
+        x: 572
+        y: 7
         width: 277
         height: 295
       alignment: 9
@@ -702,8 +702,8 @@ TextureImporter:
       name: GreatSword_JumpInPlace_00
       rect:
         serializedVersion: 2
-        x: 3327
-        y: 693
+        x: 1243
+        y: 318
         width: 397
         height: 328
       alignment: 9
@@ -724,7 +724,7 @@ TextureImporter:
       name: GreatSword_JumpInPlace_09
       rect:
         serializedVersion: 2
-        x: 316
+        x: 2003
         y: 662
         width: 392
         height: 359
@@ -746,8 +746,8 @@ TextureImporter:
       name: GreatSword_JumpInPlace_10
       rect:
         serializedVersion: 2
-        x: 1371
-        y: 346
+        x: 3011
+        y: 334
         width: 403
         height: 312
       alignment: 9
@@ -768,8 +768,8 @@ TextureImporter:
       name: GreatSword_JumpInPlace_11
       rect:
         serializedVersion: 2
-        x: 709
-        y: 336
+        x: 2349
+        y: 324
         width: 397
         height: 322
       alignment: 9
@@ -782,6 +782,116 @@ TextureImporter:
       bones: []
       spriteID: 9741a880f7d96244dbf5a7f335036184
       internalID: -2006518224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_02
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 650
+        width: 291
+        height: 371
+      alignment: 9
+      pivot: {x: 0.4055, y: 0.00809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2bd548f0ea1a24a9ea09932e664205
+      internalID: -1957862679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_01
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 658
+        width: 347
+        height: 363
+      alignment: 9
+      pivot: {x: 0.36599, y: 0.01102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54f3ca5d2e45d945b8e71c209d23c16
+      internalID: -1142183257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_01
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 649
+        width: 401
+        height: 372
+      alignment: 9
+      pivot: {x: 0.62344, y: 0.01075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebec2ffbaece7b440a27dfe9af449b29
+      internalID: -1639911498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_05
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 652
+        width: 368
+        height: 369
+      alignment: 9
+      pivot: {x: 0.63587, y: 0.01084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9a9570d9b94ae4b9ad8172f170ce07
+      internalID: 700342371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_09
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 655
+        width: 265
+        height: 366
+      alignment: 9
+      pivot: {x: 0.51321, y: 0.01366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01018ac3e92ef19439b9e4361799abc8
+      internalID: -2054582064
       vertices: []
       indices: 
       edges: []
@@ -807,11 +917,13 @@ TextureImporter:
       Bow_JumpInPlace_10: 1363267885
       Bow_JumpInPlace_11: 1591183375
       Bow_Jump_00: -1405687692
+      Bow_Jump_01: -1142183257
       Bow_Jump_04: -2057128145
       Bow_Jump_05: 378037634
       Bow_Jump_08: -1849736215
       Bow_Jump_09: 320612234
       Bow_Jump_10: -2134216430
+      Death_02: -1957862679
       Death_03: 1230478160
       Death_04: -549524478
       Death_05: 723230125
@@ -822,9 +934,12 @@ TextureImporter:
       GreatSword_JumpInPlace_10: -1924223351
       GreatSword_JumpInPlace_11: -2006518224
       GreatSword_Jump_00: 832812074
+      GreatSword_Jump_01: -1639911498
+      GreatSword_Jump_05: 700342371
       GreatSword_Jump_10: 858865212
       Sword_JumpInPlace_00: -689557288
       Sword_JumpInPlace_04: -1515518564
+      Sword_JumpInPlace_09: -2054582064
       Sword_JumpInPlace_10: 476253384
       Sword_JumpInPlace_11: 465938553
   mipmapLimitGroupName: 

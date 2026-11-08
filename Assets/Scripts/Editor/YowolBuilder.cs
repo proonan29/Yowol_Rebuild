@@ -278,7 +278,7 @@ namespace Yowol.EditorTools
             bow.id = WeaponId.Bow; bow.displayName = "활";
             bow.icon = AssetDatabase.LoadAssetAtPath<Sprite>("Assets/Art/Sprites/Public/Bow.png");
             bow.idleClip = "Bow_Idle"; bow.attackClip = "Bow_Attack"; bow.jumpClip = "Bow_Jump"; bow.jumpInPlaceClip = "Bow_JumpInPlace";
-            bow.damage = 25; bow.cooldown = 0.3f; bow.hitFrame = 2; bow.knockback = 2f; bow.lungeSpeed = 0f; bow.moveWhileAttacking = 0.1f;
+            bow.damage = 25; bow.cooldown = 0.3f; bow.hitFrame = 3; bow.knockback = 2f; bow.lungeSpeed = 0f; bow.moveWhileAttacking = 0.1f;
             bow.comboFx = new string[0];
             bow.skill1Name = "화살비"; bow.skill1Cooldown = 14f; bow.skill1Hits = 21; bow.skill1Damage = 10;
             bow.skill2Name = "월궁"; bow.skill2Cooldown = 40f; bow.skill2Hits = 12; bow.skill2Damage = 20;
@@ -839,7 +839,9 @@ namespace Yowol.EditorTools
             const float groundY = 0f;
             const float halfW = 10.6f;
 
-            var bg = Prop("00_night_city_background.png", new Vector2(0, -3.6f), S * 1.25f, -20, env);
+            var bgSprite = SpriteAt("Assets/Art/Sprites/Boss_Stage/00_night_city_background.png");
+            float bgScale = bgSprite != null ? 25f / bgSprite.bounds.size.x : S;     // cover the 21.3-unit camera with margin
+            var bg = Prop("00_night_city_background.png", new Vector2(0, -2.6f), bgScale, -20, env);
             bg.AddComponent<Parallax>().factor = 0.0f;
             Prop("rear_parapet.png", new Vector2(0, groundY - 0.05f), S, -5, env);
             Prop("left_access_building.png", new Vector2(-8.2f, groundY), S, -4, env);

@@ -45,17 +45,25 @@ namespace Yowol
         {
             state = s;
             stateTime = 0f;
-            if (s == State.Windup)
+            bool hasAttack = anim.Has("Reaper_Attack");
+            switch (s)
             {
-                anim.speed = 0f;
-                Fx.Play("SwordSpark", transform.position + new Vector3(FacingRight ? 0.9f : -0.9f, 1.2f), false, 0.4f, 0f, new Color(1f, 0.3f, 0.3f));
-            }
-            else anim.speed = 1f;
-            if (s == State.Lunge)
-            {
-                lungeHits.Clear();
-                Fx.Play("SwordSlash1", transform.position + new Vector3(FacingRight ? 1.2f : -1.2f, 0.9f), !FacingRight, 0.55f, 0f, new Color(1f, 0.45f, 0.5f, 0.9f));
-                AudioHub.Sfx(GameAssets.I.sfxSwing, 0.5f, 0.2f);
+                case State.Windup:
+                    if (hasAttack) anim.SetFrame("Reaper_Attack", 0); else anim.speed = 0f;
+                    Fx.Play("SwordSpark", transform.position + new Vector3(FacingRight ? 0.6f : -0.6f, 1.9f), false, 0.4f, 0f, new Color(1f, 0.3f, 0.3f));
+                    break;
+                case State.Lunge:
+                    if (hasAttack) anim.SetFrame("Reaper_Attack", 1);
+                    lungeHits.Clear();
+                    Fx.Play("SwordSlash1", transform.position + new Vector3(FacingRight ? 1.2f : -1.2f, 0.9f), !FacingRight, 0.55f, 0f, new Color(1f, 0.45f, 0.5f, 0.9f));
+                    AudioHub.Sfx(GameAssets.I.sfxSwing, 0.5f, 0.2f);
+                    break;
+                case State.Recover:
+                    if (hasAttack) anim.SetFrame("Reaper_Attack", 2);
+                    break;
+                default:
+                    anim.Play("Reaper_Walk");
+                    break;
             }
         }
 
@@ -103,6 +111,7 @@ namespace Yowol
                     if (stateTime >= lungeTime) Enter(State.Recover);
                     break;
                 case State.Recover:
+                    if (stateTime > 0.2f && anim.Current == "Reaper_Attack") anim.Play("Reaper_Walk");
                     if (stateTime >= recoverTime) Enter(sees ? State.Chase : State.Patrol);
                     break;
             }
@@ -130,7 +139,7 @@ namespace Yowol
                     break;
             }
             rb.linearVelocity = new Vector2(vx, rb.linearVelocity.y);
-            anim.speed = state == State.Windup ? 0f : Mathf.Clamp(Mathf.Abs(vx) / patrolSpeed, 0.6f, 2.2f);
+            anim.speed = state == State.Windup ? 0f : Mathf.Clamp(Mathf.Abs(vx) / patrolSpeed, 0.6f, 1.6f);
             if (state != State.Lunge) ContactDamage(new Vector2(1.0f, 1.4f), new Vector2(0f, 0.8f));
         }
 

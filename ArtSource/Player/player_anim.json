@@ -62,41 +62,52 @@
    ]
   },
   "Run": {
-   "frames": 4,
+   "frames": 8,
    "durations": [
-    0.13,
-    0.13,
-    0.13,
-    0.13
+    0.065,
+    0.065,
+    0.065,
+    0.065,
+    0.065,
+    0.065,
+    0.065,
+    0.065
    ],
    "loop": true,
    "source": [
     "Run_0",
+    "gen",
     "Run_1",
+    "gen",
     "Run_2",
-    "Run_3"
+    "gen",
+    "Run_3",
+    "gen"
    ]
   },
   "Sword_Attack": {
-   "frames": 3,
+   "frames": 4,
    "durations": [
     0.083,
-    0.083,
+    0.0415,
+    0.0415,
     0.12
    ],
    "loop": false,
    "source": [
     "Attack_0",
     "Attack_1",
+    "gen",
     "Attack_2"
    ]
   },
   "GreatSword_Attack": {
-   "frames": 4,
+   "frames": 5,
    "durations": [
     0.083,
     0.05,
-    0.05,
+    0.025,
+    0.025,
     0.12
    ],
    "loop": false,
@@ -104,22 +115,27 @@
     "Lsword_Attack_0",
     "Lsword_Attack_1",
     "Lsword_Attack_2",
+    "gen",
     "Lsword_Attack_3"
    ]
   },
   "Bow_Attack": {
-   "frames": 4,
+   "frames": 6,
    "durations": [
     0.1,
-    0.1,
-    0.12,
+    0.05,
+    0.05,
+    0.06,
+    0.06,
     0.12
    ],
    "loop": false,
    "source": [
     "Bow_Attack_0",
     "Bow_Attack_1",
+    "gen",
     "Bow_Attack_2",
+    "gen",
     "Bow_Attack_3"
    ]
   },

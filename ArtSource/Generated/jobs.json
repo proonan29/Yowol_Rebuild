@@ -1,0 +1,306 @@
+[
+ {
+  "name": "Run_0_1",
+  "who": "Player",
+  "clip": "Run",
+  "after": 0,
+  "box": [
+   178,
+   208,
+   547,
+   656
+  ],
+  "inputs": [
+   0,
+   1
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same anime girl (light blue hair, small horns, red eyes, navy hoodie, pleated skirt)'s running animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Run_1_2",
+  "who": "Player",
+  "clip": "Run",
+  "after": 1,
+  "box": [
+   178,
+   208,
+   547,
+   656
+  ],
+  "inputs": [
+   1,
+   2
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same anime girl (light blue hair, small horns, red eyes, navy hoodie, pleated skirt)'s running animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Run_2_3",
+  "who": "Player",
+  "clip": "Run",
+  "after": 2,
+  "box": [
+   178,
+   208,
+   547,
+   656
+  ],
+  "inputs": [
+   2,
+   3
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same anime girl (light blue hair, small horns, red eyes, navy hoodie, pleated skirt)'s running animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Run_3_0",
+  "who": "Player",
+  "clip": "Run",
+  "after": 3,
+  "box": [
+   178,
+   208,
+   547,
+   656
+  ],
+  "inputs": [
+   3,
+   0
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same anime girl (light blue hair, small horns, red eyes, navy hoodie, pleated skirt)'s running animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Sword_Attack_0_1",
+  "who": "Player",
+  "clip": "Sword_Attack",
+  "after": 0,
+  "box": [
+   0,
+   89,
+   768,
+   656
+  ],
+  "inputs": [
+   0,
+   1
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same anime girl (light blue hair, small horns, red eyes, navy hoodie, pleated skirt) holding a slim sword's one-handed sword slash animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Sword_Attack_1_2",
+  "who": "Player",
+  "clip": "Sword_Attack",
+  "after": 1,
+  "box": [
+   0,
+   89,
+   768,
+   656
+  ],
+  "inputs": [
+   1,
+   2
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same anime girl (light blue hair, small horns, red eyes, navy hoodie, pleated skirt) holding a slim sword's one-handed sword slash animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "GreatSword_Attack_0_1",
+  "who": "Player",
+  "clip": "GreatSword_Attack",
+  "after": 0,
+  "box": [
+   149,
+   0,
+   670,
+   656
+  ],
+  "inputs": [
+   0,
+   1
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same anime girl (light blue hair, small horns, red eyes, navy hoodie, pleated skirt) swinging a huge great sword's heavy great-sword swing animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "GreatSword_Attack_1_2",
+  "who": "Player",
+  "clip": "GreatSword_Attack",
+  "after": 1,
+  "box": [
+   149,
+   0,
+   670,
+   656
+  ],
+  "inputs": [
+   1,
+   2
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same anime girl (light blue hair, small horns, red eyes, navy hoodie, pleated skirt) swinging a huge great sword's heavy great-sword swing animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "GreatSword_Attack_2_3",
+  "who": "Player",
+  "clip": "GreatSword_Attack",
+  "after": 2,
+  "box": [
+   149,
+   0,
+   670,
+   656
+  ],
+  "inputs": [
+   2,
+   3
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same anime girl (light blue hair, small horns, red eyes, navy hoodie, pleated skirt) swinging a huge great sword's heavy great-sword swing animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Bow_Attack_0_1",
+  "who": "Player",
+  "clip": "Bow_Attack",
+  "after": 0,
+  "box": [
+   191,
+   175,
+   671,
+   656
+  ],
+  "inputs": [
+   0,
+   1
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same anime girl (light blue hair, small horns, red eyes, navy hoodie, pleated skirt) drawing and shooting a bow's bow shooting animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Bow_Attack_1_2",
+  "who": "Player",
+  "clip": "Bow_Attack",
+  "after": 1,
+  "box": [
+   191,
+   175,
+   671,
+   656
+  ],
+  "inputs": [
+   1,
+   2
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same anime girl (light blue hair, small horns, red eyes, navy hoodie, pleated skirt) drawing and shooting a bow's bow shooting animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Bow_Attack_2_3",
+  "who": "Player",
+  "clip": "Bow_Attack",
+  "after": 2,
+  "box": [
+   191,
+   175,
+   671,
+   656
+  ],
+  "inputs": [
+   2,
+   3
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same anime girl (light blue hair, small horns, red eyes, navy hoodie, pleated skirt) drawing and shooting a bow's bow shooting animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Reaper_Walk_0_1",
+  "who": "Reaper",
+  "clip": "Reaper_Walk",
+  "after": 0,
+  "box": [
+   20,
+   0,
+   464,
+   440
+  ],
+  "inputs": [
+   0,
+   1
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same hooded reaper spirit (dark teal cloak, horned skull mask, red eyes, short curved white blade)'s floating walk animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Reaper_Walk_1_2",
+  "who": "Reaper",
+  "clip": "Reaper_Walk",
+  "after": 1,
+  "box": [
+   20,
+   0,
+   464,
+   440
+  ],
+  "inputs": [
+   1,
+   2
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same hooded reaper spirit (dark teal cloak, horned skull mask, red eyes, short curved white blade)'s floating walk animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Reaper_Walk_2_3",
+  "who": "Reaper",
+  "clip": "Reaper_Walk",
+  "after": 2,
+  "box": [
+   20,
+   0,
+   464,
+   440
+  ],
+  "inputs": [
+   2,
+   3
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same hooded reaper spirit (dark teal cloak, horned skull mask, red eyes, short curved white blade)'s floating walk animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Reaper_Walk_3_0",
+  "who": "Reaper",
+  "clip": "Reaper_Walk",
+  "after": 3,
+  "box": [
+   20,
+   0,
+   464,
+   440
+  ],
+  "inputs": [
+   3,
+   0
+  ],
+  "prompt": "Image 1 and Image 2 are two consecutive frames of the same hooded reaper spirit (dark teal cloak, horned skull mask, red eyes, short curved white blade)'s floating walk animation (side view, facing right). Draw the single in-between frame exactly halfway between Image 1 and Image 2: exactly the same character, same outfit, same art style, same line weight and colors, same size and the same feet ground line, same flat grey background. Keep the character's proportions identical. Only the pose changes."
+ },
+ {
+  "name": "Reaper_Atk_windup",
+  "who": "Reaper",
+  "clip": "Reaper_Walk",
+  "after": -1,
+  "box": [
+   0,
+   0,
+   464,
+   440
+  ],
+  "inputs": [
+   0
+  ],
+  "prompt": "Same character as Image 1: the same hooded reaper spirit (dark teal cloak, horned skull mask, red eyes, short curved white blade), side view facing LEFT. New pose: wind-up before an attack, leaning back and raising the curved blade high behind its head, cloak flaring. Same art style, line weight, colors and size, same flat grey background, same ground line."
+ },
+ {
+  "name": "Reaper_Atk_slash",
+  "who": "Reaper",
+  "clip": "Reaper_Walk",
+  "after": -1,
+  "box": [
+   0,
+   0,
+   464,
+   440
+  ],
+  "inputs": [
+   0
+  ],
+  "prompt": "Same character as Image 1: the same hooded reaper spirit (dark teal cloak, horned skull mask, red eyes, short curved white blade), side view facing LEFT. New pose: lunging forward and slashing the curved blade low and far in front, arm fully extended, cloak streaming behind. Same art style, line weight, colors and size, same flat grey background, same ground line."
+ }
+]

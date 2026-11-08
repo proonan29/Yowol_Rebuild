@@ -134,7 +134,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 3
-        y: 105
+        y: 1641
         width: 367
         height: 404
       alignment: 9
@@ -155,12 +155,12 @@ TextureImporter:
       name: Reaper_Walk_01
       rect:
         serializedVersion: 2
-        x: 373
-        y: 105
-        width: 372
-        height: 404
+        x: 729
+        y: 1251
+        width: 348
+        height: 387
       alignment: 9
-      pivot: {x: 0.40323, y: 0.01238}
+      pivot: {x: 0.42816, y: 0.05168}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -177,12 +177,12 @@ TextureImporter:
       name: Reaper_Walk_02
       rect:
         serializedVersion: 2
-        x: 748
-        y: 105
-        width: 397
+        x: 373
+        y: 1641
+        width: 372
         height: 404
       alignment: 9
-      pivot: {x: 0.43577, y: 0.03218}
+      pivot: {x: 0.40323, y: 0.01238}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -199,8 +199,74 @@ TextureImporter:
       name: Reaper_Walk_03
       rect:
         serializedVersion: 2
-        x: 1148
-        y: 131
+        x: 1518
+        y: 1649
+        width: 389
+        height: 396
+      alignment: 9
+      pivot: {x: 0.41902, y: 0.0303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f10fdb1479ad2c4da70ee577bc5a602
+      internalID: 2130655572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1641
+        width: 397
+        height: 404
+      alignment: 9
+      pivot: {x: 0.43577, y: 0.03218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369a6eb1fa78f0849a9a24682e8e4421
+      internalID: -1957772465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper_Walk_05
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1248
+        width: 394
+        height: 390
+      alignment: 9
+      pivot: {x: 0.43147, y: 0.03333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4f4b0a5fc867244be2c07f9d588a00
+      internalID: -2022842210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper_Walk_06
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1260
         width: 368
         height: 378
       alignment: 9
@@ -211,8 +277,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f10fdb1479ad2c4da70ee577bc5a602
-      internalID: 2130655572
+      spriteID: 4d37c0105a797cb4c99e8a5be97cb064
+      internalID: -1260722397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper_Walk_07
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1263
+        width: 354
+        height: 375
+      alignment: 9
+      pivot: {x: 0.40678, y: 0.05067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a143510a17f89c4091c3d80715d3982
+      internalID: 1067486594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper_Attack_00
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1246
+        width: 326
+        height: 392
+      alignment: 9
+      pivot: {x: 0.43865, y: 0.05102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec949f691d5a93246aefe10a0355f7b3
+      internalID: 627124233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper_Attack_01
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 891
+        width: 659
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50683, y: 0.05682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1167b6a14ad6b7e46ac6dc4b8ca23d5b
+      internalID: -1662880529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper_Attack_02
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1641
+        width: 367
+        height: 404
+      alignment: 9
+      pivot: {x: 0.42507, y: 0.05198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d938a066bfbba4c82fee789ddbb6cc
+      internalID: -700745074
       vertices: []
       indices: 
       edges: []
@@ -231,10 +385,17 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      Reaper_Attack_00: 627124233
+      Reaper_Attack_01: -1662880529
+      Reaper_Attack_02: -700745074
       Reaper_Walk_00: 1789345392
       Reaper_Walk_01: 2013782967
       Reaper_Walk_02: 1759615132
       Reaper_Walk_03: 2130655572
+      Reaper_Walk_04: -1957772465
+      Reaper_Walk_05: -2022842210
+      Reaper_Walk_06: -1260722397
+      Reaper_Walk_07: 1067486594
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

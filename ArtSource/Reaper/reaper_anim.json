@@ -1,32 +1,54 @@
 {
  "cell": [
-  464,
-  440
+  784,
+  640
  ],
  "pivotPx": [
-  232,
+  392,
   32
  ],
  "pivot": [
   0.5,
-  0.07272727272727272
+  0.05
  ],
  "pixelsPerUnit": 256,
  "clips": {
   "Reaper_Walk": {
-   "frames": 4,
+   "frames": 8,
    "durations": [
-    0.16,
-    0.16,
-    0.16,
-    0.16
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08
    ],
    "loop": true,
    "source": [
     "Monster/Monster_0",
+    "gen",
     "Monster/Moster_1",
+    "gen",
     "Monster/Monster_2",
-    "Monster/Monster_3"
+    "gen",
+    "Monster/Monster_3",
+    "gen"
+   ]
+  },
+  "Reaper_Attack": {
+   "frames": 3,
+   "durations": [
+    0.5,
+    0.25,
+    0.3
+   ],
+   "loop": false,
+   "source": [
+    "gen",
+    "gen",
+    "Monster_0"
    ]
   }
  }
