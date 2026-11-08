@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 4c0d4f03e334f4843ae253f0924f5226
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8509926482680095382
+    second: Aspic_Eyes_0
+  - first:
+      213: -5289430573771813834
+    second: Aspic_Eyes_1
+  - first:
+      213: -2427534602233494944
+    second: Aspic_Eyes_2
+  - first:
+      213: 5528896558911220241
+    second: Aspic_Eyes_3
+  - first:
+      213: -5057937035169978533
+    second: Aspic_Eyes_4
+  - first:
+      213: -7087171178740142382
+    second: Aspic_Eyes_5
+  - first:
+      213: 7490864362873013650
+    second: Aspic_Eyes_6
+  - first:
+      213: 7630451276326103168
+    second: Aspic_Eyes_7
+  - first:
+      213: 1344154119292995849
+    second: Aspic_Eyes_8
+  - first:
+      213: -2181682874730294055
+    second: Aspic_Eyes_9
+  - first:
+      213: 8997939841104133853
+    second: Aspic_Eyes_10
+  - first:
+      213: -3392809451594619515
+    second: Aspic_Eyes_11
+  - first:
+      213: 5843775657388893829
+    second: Aspic_Eyes_12
+  - first:
+      213: -3122093613679682810
+    second: Aspic_Eyes_13
+  - first:
+      213: 3702790691182507500
+    second: Aspic_Eyes_14
+  - first:
+      213: 7714060832063476253
+    second: Aspic_Eyes_15
+  - first:
+      213: -5400914267271107606
+    second: Aspic_Eyes_16
+  - first:
+      213: 354420504537013088
+    second: Aspic_Eyes_17
+  - first:
+      213: 1633430673186034259
+    second: Aspic_Eyes_18
+  - first:
+      213: -8938857187804528049
+    second: Aspic_Eyes_19
+  - first:
+      213: -1940872127127330997
+    second: Aspic_Eyes_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aspic_Eyes_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 54
+        width: 1100
+        height: 1111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69226d86c05591670800000000000000
+      internalID: 8509926482680095382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_1
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1160
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c8d32faea2896b0800000000000000
+      internalID: -5289430573771813834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06247e1142aaf4ed0800000000000000
+      internalID: -2427534602233494944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_3
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 421
+        width: 153
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a68c180269abc40800000000000000
+      internalID: 5528896558911220241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 272
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a66a80199ec9b0800000000000000
+      internalID: -5057937035169978533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 107
+        width: 104
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2deaec4cc5f45ad90800000000000000
+      internalID: -7087171178740142382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_6
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 226
+        width: 53
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295cda12375e4f760800000000000000
+      internalID: 7490864362873013650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 223
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088e759020fc4e960800000000000000
+      internalID: 7630451276326103168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 222
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90946d3cc0567a210800000000000000
+      internalID: 1344154119292995849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_9
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 232
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4d5270cfa19b1e0800000000000000
+      internalID: -2181682874730294055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_10
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 210
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddeb853cc9a1fdc70800000000000000
+      internalID: 8997939841104133853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_11
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 208
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5856d1797c15ae0d0800000000000000
+      internalID: -3392809451594619515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 206
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5866dbdaff2491150800000000000000
+      internalID: 5843775657388893829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_13
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 214
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b5b1166681ca4d0800000000000000
+      internalID: -3122093613679682810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_14
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 208
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce57e81f384f26330800000000000000
+      internalID: 3702790691182507500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_15
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 198
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12d5e6b479dd0b60800000000000000
+      internalID: 7714060832063476253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_16
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 191
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb67f4d6191c05b0800000000000000
+      internalID: -5400914267271107606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_17
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 166
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b1b0232972be400800000000000000
+      internalID: 354420504537013088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 160
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3521b700b8c1ba610800000000000000
+      internalID: 1633430673186034259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_19
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 125
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42c6fe6fbcc2f380800000000000000
+      internalID: -8938857187804528049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspic_Eyes_20
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 152
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f5e146513a015e0800000000000000
+      internalID: -1940872127127330997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aspic_Eyes_0: 8509926482680095382
+      Aspic_Eyes_1: -5289430573771813834
+      Aspic_Eyes_10: 8997939841104133853
+      Aspic_Eyes_11: -3392809451594619515
+      Aspic_Eyes_12: 5843775657388893829
+      Aspic_Eyes_13: -3122093613679682810
+      Aspic_Eyes_14: 3702790691182507500
+      Aspic_Eyes_15: 7714060832063476253
+      Aspic_Eyes_16: -5400914267271107606
+      Aspic_Eyes_17: 354420504537013088
+      Aspic_Eyes_18: 1633430673186034259
+      Aspic_Eyes_19: -8938857187804528049
+      Aspic_Eyes_2: -2427534602233494944
+      Aspic_Eyes_20: -1940872127127330997
+      Aspic_Eyes_3: 5528896558911220241
+      Aspic_Eyes_4: -5057937035169978533
+      Aspic_Eyes_5: -7087171178740142382
+      Aspic_Eyes_6: 7490864362873013650
+      Aspic_Eyes_7: 7630451276326103168
+      Aspic_Eyes_8: 1344154119292995849
+      Aspic_Eyes_9: -2181682874730294055
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

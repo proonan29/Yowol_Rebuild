@@ -1,0 +1,3292 @@
+fileFormatVersion: 2
+guid: b417dc426a64db543be16ce34cb529f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5923527530028590542
+    second: Player_atlas_0_0
+  - first:
+      213: -8303042256961008838
+    second: Player_atlas_0_1
+  - first:
+      213: 463947182797045518
+    second: Player_atlas_0_2
+  - first:
+      213: 5994676063935420335
+    second: Player_atlas_0_3
+  - first:
+      213: -1806827824464594635
+    second: Player_atlas_0_4
+  - first:
+      213: 967549883840984674
+    second: Player_atlas_0_5
+  - first:
+      213: -8127693460384029656
+    second: Player_atlas_0_6
+  - first:
+      213: -7615552824934652835
+    second: Player_atlas_0_7
+  - first:
+      213: -4913635778907380174
+    second: Player_atlas_0_8
+  - first:
+      213: 8686425636467502922
+    second: Player_atlas_0_9
+  - first:
+      213: 3449251548134177058
+    second: Player_atlas_0_10
+  - first:
+      213: -2125464360364789845
+    second: Player_atlas_0_11
+  - first:
+      213: -8925527513508175915
+    second: Player_atlas_0_12
+  - first:
+      213: -8861100006455120070
+    second: Player_atlas_0_13
+  - first:
+      213: 603992150680556851
+    second: Player_atlas_0_14
+  - first:
+      213: 6446441410370442905
+    second: Player_atlas_0_15
+  - first:
+      213: 1653673055230605842
+    second: Player_atlas_0_16
+  - first:
+      213: -4614313790841042609
+    second: Player_atlas_0_17
+  - first:
+      213: -8620807665191115931
+    second: Player_atlas_0_18
+  - first:
+      213: 3543662154900269669
+    second: Player_atlas_0_19
+  - first:
+      213: -5625004689436894815
+    second: Player_atlas_0_20
+  - first:
+      213: -3782718686031063658
+    second: Player_atlas_0_21
+  - first:
+      213: 1098900429078242721
+    second: Player_atlas_0_22
+  - first:
+      213: 1409007416976907182
+    second: Player_atlas_0_23
+  - first:
+      213: -6544016829985987414
+    second: Player_atlas_0_24
+  - first:
+      213: 8914736444770098973
+    second: Player_atlas_0_25
+  - first:
+      213: 4489461124461271979
+    second: Player_atlas_0_26
+  - first:
+      213: 3599276544224602858
+    second: Player_atlas_0_27
+  - first:
+      213: 4083960176827002829
+    second: Player_atlas_0_28
+  - first:
+      213: 5254950411868939480
+    second: Player_atlas_0_29
+  - first:
+      213: 3706013218550132382
+    second: Player_atlas_0_30
+  - first:
+      213: -4676335932042172373
+    second: Player_atlas_0_31
+  - first:
+      213: 6883750468895248092
+    second: Player_atlas_0_32
+  - first:
+      213: 5095581066954031859
+    second: Player_atlas_0_33
+  - first:
+      213: 6370814206767087728
+    second: Player_atlas_0_34
+  - first:
+      213: 1246977703902147974
+    second: Player_atlas_0_35
+  - first:
+      213: -3681540092121026233
+    second: Player_atlas_0_36
+  - first:
+      213: -1731687264333462187
+    second: Player_atlas_0_37
+  - first:
+      213: -640128648051536131
+    second: Player_atlas_0_38
+  - first:
+      213: -2848846537310013498
+    second: Player_atlas_0_39
+  - first:
+      213: -3629073200024547118
+    second: Player_atlas_0_40
+  - first:
+      213: 6243218536017916138
+    second: Player_atlas_0_41
+  - first:
+      213: -6878530966506064278
+    second: Player_atlas_0_42
+  - first:
+      213: 2388343945451682158
+    second: Player_atlas_0_43
+  - first:
+      213: -4271955699434474866
+    second: Player_atlas_0_44
+  - first:
+      213: -5369593448148391881
+    second: Player_atlas_0_45
+  - first:
+      213: -8771156691427293143
+    second: Player_atlas_0_46
+  - first:
+      213: 1037068584866200763
+    second: Player_atlas_0_47
+  - first:
+      213: 7950230780725505355
+    second: Player_atlas_0_48
+  - first:
+      213: -7878025579900531141
+    second: Player_atlas_0_49
+  - first:
+      213: -5589958068911209914
+    second: Player_atlas_0_50
+  - first:
+      213: -1361905580448634909
+    second: Player_atlas_0_51
+  - first:
+      213: -909333866351835371
+    second: Player_atlas_0_52
+  - first:
+      213: 2764202839184729412
+    second: Player_atlas_0_53
+  - first:
+      213: -4036365788934843438
+    second: Player_atlas_0_54
+  - first:
+      213: -1763961090335128747
+    second: Player_atlas_0_55
+  - first:
+      213: 4486212549682905500
+    second: Player_atlas_0_56
+  - first:
+      213: -7812145814281387209
+    second: Player_atlas_0_57
+  - first:
+      213: -3040555516613040670
+    second: Player_atlas_0_58
+  - first:
+      213: 545188425567846320
+    second: Player_atlas_0_59
+  - first:
+      213: 2179887291996328588
+    second: Player_atlas_0_60
+  - first:
+      213: -6133179470141015671
+    second: Player_atlas_0_61
+  - first:
+      213: -4632894792901547831
+    second: Player_atlas_0_62
+  - first:
+      213: 8991318617321912069
+    second: Player_atlas_0_63
+  - first:
+      213: 4754520501190598154
+    second: Player_atlas_0_64
+  - first:
+      213: -6227266512501619778
+    second: Player_atlas_0_65
+  - first:
+      213: 2850032826356759259
+    second: Player_atlas_0_66
+  - first:
+      213: -5960973136260689171
+    second: Player_atlas_0_67
+  - first:
+      213: -7221365106598755026
+    second: Player_atlas_0_68
+  - first:
+      213: 2769152412656354161
+    second: Player_atlas_0_69
+  - first:
+      213: 4035144477094895537
+    second: Player_atlas_0_70
+  - first:
+      213: -8072538363078940828
+    second: Player_atlas_0_71
+  - first:
+      213: 7415879870390884419
+    second: Player_atlas_0_72
+  - first:
+      213: -4386670591760319725
+    second: Player_atlas_0_73
+  - first:
+      213: 1836860820851880597
+    second: Player_atlas_0_74
+  - first:
+      213: 2652884186818144032
+    second: Player_atlas_0_75
+  - first:
+      213: 3126609375583524873
+    second: Player_atlas_0_76
+  - first:
+      213: 1822736964462256384
+    second: Player_atlas_0_77
+  - first:
+      213: -8935864752368763103
+    second: Player_atlas_0_78
+  - first:
+      213: 8802131021185281899
+    second: Player_atlas_0_79
+  - first:
+      213: -3168085903301456526
+    second: Player_atlas_0_80
+  - first:
+      213: 2538991938415964405
+    second: Player_atlas_0_81
+  - first:
+      213: 2203846735157676205
+    second: Player_atlas_0_82
+  - first:
+      213: -2389093082765649778
+    second: Player_atlas_0_83
+  - first:
+      213: -3589050010192013942
+    second: Player_atlas_0_84
+  - first:
+      213: 840410638716558915
+    second: Player_atlas_0_85
+  - first:
+      213: 2306112339073557351
+    second: Player_atlas_0_86
+  - first:
+      213: 3630717351083333006
+    second: Player_atlas_0_87
+  - first:
+      213: -1231479419730392940
+    second: Player_atlas_0_88
+  - first:
+      213: 4403842167871357060
+    second: Player_atlas_0_89
+  - first:
+      213: -6044583822460126175
+    second: Player_atlas_0_90
+  - first:
+      213: 6776768028093297179
+    second: Player_atlas_0_91
+  - first:
+      213: -2703326435498089862
+    second: Player_atlas_0_92
+  - first:
+      213: -6776709644215491206
+    second: Player_atlas_0_93
+  - first:
+      213: 4761003989272538818
+    second: Player_atlas_0_94
+  - first:
+      213: 6943877081444910229
+    second: Player_atlas_0_95
+  - first:
+      213: -4282867349632888537
+    second: Player_atlas_0_96
+  - first:
+      213: -4937833436006006011
+    second: Player_atlas_0_97
+  - first:
+      213: 6931795050975964993
+    second: Player_atlas_0_98
+  - first:
+      213: 3360967336008354374
+    second: Player_atlas_0_99
+  - first:
+      213: -6853108589645065164
+    second: Player_atlas_0_100
+  - first:
+      213: 6436228164637025611
+    second: Player_atlas_0_101
+  - first:
+      213: 3820710339599774756
+    second: Player_atlas_0_102
+  - first:
+      213: -7293305686611201145
+    second: Player_atlas_0_103
+  - first:
+      213: 3714995482842525131
+    second: Player_atlas_0_104
+  - first:
+      213: -354681984305210732
+    second: Player_atlas_0_105
+  - first:
+      213: -4799128784581306928
+    second: Player_atlas_0_106
+  - first:
+      213: -3086286068971812767
+    second: Player_atlas_0_107
+  - first:
+      213: 1131280339338878735
+    second: Player_atlas_0_108
+  - first:
+      213: -5022695986042840569
+    second: Player_atlas_0_109
+  - first:
+      213: 4261258701878926023
+    second: Player_atlas_0_110
+  - first:
+      213: -6026827349096795444
+    second: Player_atlas_0_111
+  - first:
+      213: -7142986247218923969
+    second: Player_atlas_0_112
+  - first:
+      213: -6098765351344881888
+    second: Player_atlas_0_113
+  - first:
+      213: -6908551734760480981
+    second: Player_atlas_0_114
+  - first:
+      213: -6069938270545471709
+    second: Player_atlas_0_115
+  - first:
+      213: 867098141792069807
+    second: Player_atlas_0_116
+  - first:
+      213: 4987403848792733250
+    second: Player_atlas_0_117
+  - first:
+      213: 2251945686103199032
+    second: Player_atlas_0_118
+  - first:
+      213: 6120847374075503293
+    second: Player_atlas_0_119
+  - first:
+      213: -6448987839098884669
+    second: Player_atlas_0_120
+  - first:
+      213: -6200358591615221754
+    second: Player_atlas_0_121
+  - first:
+      213: -8488198527650901651
+    second: Player_atlas_0_122
+  - first:
+      213: 4613939092217539736
+    second: Player_atlas_0_123
+  - first:
+      213: 4628293404913875252
+    second: Player_atlas_0_124
+  - first:
+      213: -2527864586036170824
+    second: Player_atlas_0_125
+  - first:
+      213: 7817184323419124860
+    second: Player_atlas_0_126
+  - first:
+      213: -7095033193455780629
+    second: Player_atlas_0_127
+  - first:
+      213: -2100780777528773158
+    second: Player_atlas_0_128
+  - first:
+      213: 3666325835208322476
+    second: Player_atlas_0_129
+  - first:
+      213: -590292200348874061
+    second: Player_atlas_0_130
+  - first:
+      213: 8211621170920070278
+    second: Player_atlas_0_131
+  - first:
+      213: 471318525282073254
+    second: Player_atlas_0_132
+  - first:
+      213: 3713370814303525595
+    second: Player_atlas_0_133
+  - first:
+      213: 7588507924499363972
+    second: Player_atlas_0_134
+  - first:
+      213: 2443896275208345889
+    second: Player_atlas_0_135
+  - first:
+      213: -5690244533663667406
+    second: Player_atlas_0_136
+  - first:
+      213: -1784121474335144266
+    second: Player_atlas_0_137
+  - first:
+      213: -7737024441690469610
+    second: Player_atlas_0_138
+  - first:
+      213: 5075722851127159493
+    second: Player_atlas_0_139
+  - first:
+      213: -4645651756073159418
+    second: Player_atlas_0_140
+  - first:
+      213: 7743897407641537867
+    second: Player_atlas_0_141
+  - first:
+      213: 2181901827710552212
+    second: Player_atlas_0_142
+  - first:
+      213: 2544816880673008410
+    second: Player_atlas_0_143
+  - first:
+      213: -8536447035035754388
+    second: Player_atlas_0_144
+  - first:
+      213: -6864990398973432757
+    second: Player_atlas_0_145
+  - first:
+      213: 1953649433592824784
+    second: Player_atlas_0_146
+  - first:
+      213: 7310628729605211926
+    second: Player_atlas_0_147
+  - first:
+      213: -5318503815766593299
+    second: Player_atlas_0_148
+  - first:
+      213: 5577066821772502039
+    second: Player_atlas_0_149
+  - first:
+      213: 7435493198190414611
+    second: Player_atlas_0_150
+  - first:
+      213: 8898000069377289803
+    second: Player_atlas_0_151
+  - first:
+      213: 2131441084126678285
+    second: Player_atlas_0_152
+  - first:
+      213: -130874988019715657
+    second: Player_atlas_0_153
+  - first:
+      213: 260126576763270270
+    second: Player_atlas_0_154
+  - first:
+      213: 6437557345841135139
+    second: Player_atlas_0_155
+  - first:
+      213: 607220330996003777
+    second: Player_atlas_0_156
+  - first:
+      213: -4077858209649801023
+    second: Player_atlas_0_157
+  - first:
+      213: -4906033694497164412
+    second: Player_atlas_0_158
+  - first:
+      213: 5198120737419723571
+    second: Player_atlas_0_159
+  - first:
+      213: 3090374462844611740
+    second: Player_atlas_0_160
+  - first:
+      213: -2851802377119860839
+    second: Player_atlas_0_161
+  - first:
+      213: 8105508583256513291
+    second: Player_atlas_0_162
+  - first:
+      213: 8478420465770573352
+    second: Player_atlas_0_163
+  - first:
+      213: 5876633662580964064
+    second: Player_atlas_0_164
+  - first:
+      213: 2009309435136425644
+    second: Player_atlas_0_165
+  - first:
+      213: 8887539688590175376
+    second: Player_atlas_0_166
+  - first:
+      213: -4334455267558788544
+    second: Player_atlas_0_167
+  - first:
+      213: -7098596752974087421
+    second: Player_atlas_0_168
+  - first:
+      213: -2138703110552642266
+    second: Player_atlas_0_169
+  - first:
+      213: 7991843585345727900
+    second: Player_atlas_0_170
+  - first:
+      213: -839760438479269657
+    second: Player_atlas_0_171
+  - first:
+      213: -1521926386163464885
+    second: Player_atlas_0_172
+  - first:
+      213: -6353184903352089938
+    second: Player_atlas_0_173
+  - first:
+      213: -5593332194280220966
+    second: Player_atlas_0_174
+  - first:
+      213: -7669622001044287200
+    second: Player_atlas_0_175
+  - first:
+      213: -4580373802719248916
+    second: Player_atlas_0_176
+  - first:
+      213: -6660315014301661540
+    second: Player_atlas_0_177
+  - first:
+      213: -2277843707721799747
+    second: Player_atlas_0_178
+  - first:
+      213: -2592372157670241194
+    second: Player_atlas_0_179
+  - first:
+      213: 6389793155841152139
+    second: Player_atlas_0_180
+  - first:
+      213: -2288590856840788494
+    second: Player_atlas_0_181
+  - first:
+      213: 1549568824462488986
+    second: Player_atlas_0_182
+  - first:
+      213: -1462897645168669937
+    second: Player_atlas_0_183
+  - first:
+      213: -3334396111844920247
+    second: Player_atlas_0_184
+  - first:
+      213: -5081378523790667516
+    second: Player_atlas_0_185
+  - first:
+      213: -6538869015824111128
+    second: Player_atlas_0_186
+  - first:
+      213: 6631137353427636510
+    second: Player_atlas_0_187
+  - first:
+      213: 2247930222200160861
+    second: Player_atlas_0_188
+  - first:
+      213: -1343062824892135438
+    second: Player_atlas_0_189
+  - first:
+      213: 8162061876170299673
+    second: Player_atlas_0_190
+  - first:
+      213: -2010407512722699344
+    second: Player_atlas_0_191
+  - first:
+      213: -8362726870359898320
+    second: Player_atlas_0_192
+  - first:
+      213: 5067390265869075417
+    second: Player_atlas_0_193
+  - first:
+      213: 8842956061427468785
+    second: Player_atlas_0_194
+  - first:
+      213: -5380979809649621053
+    second: Player_atlas_0_195
+  - first:
+      213: -4543948694271401413
+    second: Player_atlas_0_196
+  - first:
+      213: -174143195131964017
+    second: Player_atlas_0_197
+  - first:
+      213: -2312472847269082870
+    second: Player_atlas_0_198
+  - first:
+      213: -8247141443516515821
+    second: Player_atlas_0_199
+  - first:
+      213: -7830056053610119199
+    second: Player_atlas_0_200
+  - first:
+      213: -8429961496931364173
+    second: Player_atlas_0_201
+  - first:
+      213: -363371068736079449
+    second: Player_atlas_0_202
+  - first:
+      213: -2525030513368843714
+    second: Player_atlas_0_203
+  - first:
+      213: 6283866628624727987
+    second: Player_atlas_0_204
+  - first:
+      213: 8178461639388579219
+    second: Player_atlas_0_205
+  - first:
+      213: 3123380421335925688
+    second: Player_atlas_0_206
+  - first:
+      213: 8694808728735519147
+    second: Player_atlas_0_207
+  - first:
+      213: -91552095392044027
+    second: Player_atlas_0_208
+  - first:
+      213: -2108012343636765255
+    second: Player_atlas_0_209
+  - first:
+      213: -3097276584549791950
+    second: Player_atlas_0_210
+  - first:
+      213: -7613962892680066799
+    second: Player_atlas_0_211
+  - first:
+      213: 5262458365625069911
+    second: Player_atlas_0_212
+  - first:
+      213: 5275619468945165168
+    second: Player_atlas_0_213
+  - first:
+      213: -7169845057433146820
+    second: Player_atlas_0_214
+  - first:
+      213: -4170121391510668241
+    second: Player_atlas_0_215
+  - first:
+      213: 4233742231292779384
+    second: Player_atlas_0_216
+  - first:
+      213: 4526083692197586734
+    second: Player_atlas_0_217
+  - first:
+      213: 8359685157695373948
+    second: Player_atlas_0_218
+  - first:
+      213: -7712825275528813710
+    second: Player_atlas_0_219
+  - first:
+      213: 3061480393230013801
+    second: Player_atlas_0_220
+  - first:
+      213: 7308136447410732570
+    second: Player_atlas_0_221
+  - first:
+      213: 1871044193623137067
+    second: Player_atlas_0_222
+  - first:
+      213: 2229800862359159719
+    second: Player_atlas_0_223
+  - first:
+      213: 6475759020371014441
+    second: Player_atlas_0_224
+  - first:
+      213: 5157623098534878310
+    second: Player_atlas_0_225
+  - first:
+      213: 4280037813729418929
+    second: Player_atlas_0_226
+  - first:
+      213: 5965686051062673715
+    second: Player_atlas_0_227
+  - first:
+      213: 5710285337141203137
+    second: Player_atlas_0_228
+  - first:
+      213: 546841390732238518
+    second: Player_atlas_0_229
+  - first:
+      213: 152394455752871445
+    second: Player_atlas_0_230
+  - first:
+      213: 7680342391076704137
+    second: Player_atlas_0_231
+  - first:
+      213: 2223370654056377155
+    second: Player_atlas_0_232
+  - first:
+      213: -5484014382078284770
+    second: Player_atlas_0_233
+  - first:
+      213: 8920087925729222890
+    second: Player_atlas_0_234
+  - first:
+      213: -328213446709301424
+    second: Player_atlas_0_235
+  - first:
+      213: -132656104248924720
+    second: Player_atlas_0_236
+  - first:
+      213: -1438534682514600258
+    second: Player_atlas_0_237
+  - first:
+      213: -7069977601247853401
+    second: Player_atlas_0_238
+  - first:
+      213: 2452481188666799641
+    second: Player_atlas_0_239
+  - first:
+      213: 8630538122611576329
+    second: Player_atlas_0_240
+  - first:
+      213: 1115834271363169658
+    second: Player_atlas_0_241
+  - first:
+      213: 4079039954506162730
+    second: Player_atlas_0_242
+  - first:
+      213: -1072175656045262176
+    second: Player_atlas_0_243
+  - first:
+      213: 4298787188908041483
+    second: Player_atlas_0_244
+  - first:
+      213: 8976121389442619443
+    second: Player_atlas_0_245
+  - first:
+      213: -6634503762514994560
+    second: Player_atlas_0_246
+  - first:
+      213: -3228359749858780288
+    second: Player_atlas_0_247
+  - first:
+      213: 3107570476125938533
+    second: Player_atlas_0_248
+  - first:
+      213: -3272183058095811074
+    second: Player_atlas_0_249
+  - first:
+      213: -6486620898125949850
+    second: Player_atlas_0_250
+  - first:
+      213: 5831744122528248254
+    second: Player_atlas_0_251
+  - first:
+      213: -5045662064369740233
+    second: Player_atlas_0_252
+  - first:
+      213: 7632566846363279447
+    second: Player_atlas_0_253
+  - first:
+      213: 270855504884517967
+    second: Player_atlas_0_254
+  - first:
+      213: -3721505331211317354
+    second: Player_atlas_0_255
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sword_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1314
+        width: 289
+        height: 404
+      alignment: 9
+      pivot: {x: 0.56401, y: 0.00495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38402d6168dd97d4e9039b9297190a5a
+      internalID: 1881335662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1314
+        width: 270
+        height: 404
+      alignment: 9
+      pivot: {x: 0.53333, y: 0.00495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55916d26572246e48b0c920483630913
+      internalID: -1092043836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 909
+        width: 257
+        height: 393
+      alignment: 9
+      pivot: {x: 0.50973, y: 0.00509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f084ca5200db51e479fd8c4987b9ca4c
+      internalID: 1473505480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 1314
+        width: 270
+        height: 404
+      alignment: 9
+      pivot: {x: 0.53333, y: 0.00495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29758e6f6ab0f1749b1320d66f71c199
+      internalID: 290600407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1314
+        width: 251
+        height: 404
+      alignment: 9
+      pivot: {x: 0.49402, y: 0.00495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1885a43a8111ebd45bb5169d70353641
+      internalID: 1254405843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 1314
+        width: 253
+        height: 404
+      alignment: 9
+      pivot: {x: 0.49802, y: 0.0099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4ea9f6fc5050e4f8fb99d16be24360
+      internalID: 2093849136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 914
+        width: 250
+        height: 388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db1a6ff71b95d34291247f479e71532
+      internalID: -717650735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1315
+        width: 251
+        height: 403
+      alignment: 9
+      pivot: {x: 0.49801, y: 0.00744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575502d84dd3d2f43a11a8f206ed2a2a
+      internalID: 575592250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 372
+        height: 381
+      alignment: 9
+      pivot: {x: 0.62097, y: 0.00262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd738e89353caa49b21c099618b199b
+      internalID: 625508981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 127
+        width: 381
+        height: 381
+      alignment: 9
+      pivot: {x: 0.6273, y: 0.00262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783233d961e4f964ea6d07ae4e60d534
+      internalID: -688726657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 513
+        width: 393
+        height: 386
+      alignment: 9
+      pivot: {x: 0.63359, y: 0.00777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272ce721801dd8443a12053db9849ef2
+      internalID: 1810912574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 514
+        width: 387
+        height: 385
+      alignment: 9
+      pivot: {x: 0.63049, y: 0.00519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8661470fa59d74db2d926539133f6b
+      internalID: -291444757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_00
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 513
+        width: 270
+        height: 386
+      alignment: 9
+      pivot: {x: 0.6, y: 0.00259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfa06b59d2fc4a44b84773e72f08070
+      internalID: -1431365534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_01
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 517
+        width: 271
+        height: 382
+      alignment: 9
+      pivot: {x: 0.60886, y: 0.00262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06adcc83fbcbdfc4bb20501e81c4dafb
+      internalID: -657133872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_02
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 513
+        width: 270
+        height: 386
+      alignment: 9
+      pivot: {x: 0.6, y: 0.00259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416eda43850fc4e4499aaf70f1f19a31
+      internalID: -1783393337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_03
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 517
+        width: 291
+        height: 382
+      alignment: 9
+      pivot: {x: 0.57388, y: 0.00262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80734b48db260a4ebebca6b7f9c99e2
+      internalID: -641432026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Attack_00
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3588
+        width: 553
+        height: 505
+      alignment: 9
+      pivot: {x: 0.65642, y: 0.00198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bdd4fb2c8ce9b4ab603c14e5522d43
+      internalID: 119987852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Attack_01
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3633
+        width: 540
+        height: 460
+      alignment: 9
+      pivot: {x: 0.34815, y: 0.00652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6d0ddc7911bf845bdfb16057dde481
+      internalID: 266735291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Attack_02
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 2585
+        width: 501
+        height: 436
+      alignment: 9
+      pivot: {x: 0.36727, y: 0.00229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97871538981fa774484fe0d838a40df7
+      internalID: 2100811227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Attack_00
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3618
+        width: 363
+        height: 475
+      alignment: 9
+      pivot: {x: 0.44353, y: 0.00211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b52d48929ce5a43addcc2d67c026a8
+      internalID: -1093504706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Attack_01
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3485
+        width: 360
+        height: 608
+      alignment: 9
+      pivot: {x: 0.54444, y: 0.00164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37de74dc63b65a54a8a2c24ee30ed91b
+      internalID: 1868390917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Attack_02
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 512
+        width: 424
+        height: 387
+      alignment: 9
+      pivot: {x: 0.41745, y: 0.00258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f445ecfd42d2b045b76972ee68a6a42
+      internalID: 1139131854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Attack_03
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 913
+        width: 364
+        height: 389
+      alignment: 9
+      pivot: {x: 0.42582, y: 0.00257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8957d77d4bf8fb343b79a1f221cfa803
+      internalID: -1288998159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Attack_00
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1730
+        width: 352
+        height: 414
+      alignment: 9
+      pivot: {x: 0.39489, y: 0.00242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349c66613ea616b418d0e9c5bd39ccd5
+      internalID: 1046978154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Attack_01
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1725
+        width: 381
+        height: 419
+      alignment: 9
+      pivot: {x: 0.34908, y: 0.00239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6955338313097245807404e4cf8a3e3
+      internalID: 944467504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Attack_02
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 1725
+        width: 363
+        height: 419
+      alignment: 9
+      pivot: {x: 0.42424, y: 0.00239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91185ac3233b0142bb721b17488cd23
+      internalID: 1161174276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Attack_03
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 1726
+        width: 372
+        height: 418
+      alignment: 9
+      pivot: {x: 0.40054, y: 0.00239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc144b8951e6a804fb04bfeb66c9ad22
+      internalID: 1311333167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_00
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 3619
+        width: 233
+        height: 474
+      alignment: 9
+      pivot: {x: 0.46781, y: 0.00633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42763eeb93dbb7a4984ff9cb4e724d9a
+      internalID: 1709992420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_01
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 2589
+        width: 232
+        height: 432
+      alignment: 9
+      pivot: {x: 0.38793, y: 0.00694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9ddadf012adbc4497862adef14e766
+      internalID: -1036656011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_02
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 137
+        width: 291
+        height: 371
+      alignment: 9
+      pivot: {x: 0.4055, y: 0.00809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a1c82fbb90ee04f85102c68e2da791
+      internalID: -2098334990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Jump_00
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1313
+        width: 398
+        height: 405
+      alignment: 9
+      pivot: {x: 0.49749, y: 0.03951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2864b3e68284ee6469b5bd6dd15928a3
+      internalID: 580102385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Jump_01
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2151
+        width: 422
+        height: 423
+      alignment: 9
+      pivot: {x: 0.52607, y: 0.03783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6f22ec0d5fbb04b87bc9d2437cc333
+      internalID: -392372905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Jump_02
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1722
+        width: 421
+        height: 422
+      alignment: 9
+      pivot: {x: 0.52494, y: 0.03555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcea5d4dd299c824ab9e7a543051c874
+      internalID: 1725238979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Jump_03
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1721
+        width: 405
+        height: 423
+      alignment: 9
+      pivot: {x: 0.54568, y: 0.03783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0aa6560e932ad48a7f699c99f261f3
+      internalID: -1017321690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Jump_04
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2150
+        width: 372
+        height: 424
+      alignment: 9
+      pivot: {x: 0.46237, y: 0.04009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d76a785db7b04498d27d804ebd66f
+      internalID: -1155259153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Jump_05
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1721
+        width: 422
+        height: 423
+      alignment: 9
+      pivot: {x: 0.52607, y: 0.03783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124c60108b9f67c4286d534db6c0d822
+      internalID: -1318637924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Jump_06
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2149
+        width: 422
+        height: 425
+      alignment: 9
+      pivot: {x: 0.52607, y: 0.04235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553c65d05a80c7e4cb2c6fd61a22b868
+      internalID: -2037184039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Jump_07
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2150
+        width: 405
+        height: 424
+      alignment: 9
+      pivot: {x: 0.54568, y: 0.04009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbb3c7429baa104ca769e3f0e4a9dd4
+      internalID: -456016485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Jump_08
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2149
+        width: 422
+        height: 425
+      alignment: 9
+      pivot: {x: 0.52607, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024ec1d4663533949a61a097afeb87c6
+      internalID: 1506681601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Jump_09
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 2150
+        width: 422
+        height: 424
+      alignment: 9
+      pivot: {x: 0.52607, y: 0.04009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750f865f90aca4c43aa454d693969a12
+      internalID: -349709892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 2150
+        width: 421
+        height: 424
+      alignment: 9
+      pivot: {x: 0.52494, y: 0.04009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0eb8ebfa139fd49825046a275fe841
+      internalID: 806586052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 2150
+        width: 406
+        height: 424
+      alignment: 9
+      pivot: {x: 0.5468, y: 0.04009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2284f83ebf6604caae016b8cd228be
+      internalID: 1438760261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_01
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 145
+        width: 347
+        height: 363
+      alignment: 9
+      pivot: {x: 0.36599, y: 0.01102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ec3aa11a932b84da0eedb903f6cf29
+      internalID: 1344028579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_02
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1311
+        width: 276
+        height: 407
+      alignment: 9
+      pivot: {x: 0.33333, y: 0.00983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48c5b10977a10a4bb3f9bde4177908f
+      internalID: -695610746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_03
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 132
+        width: 301
+        height: 376
+      alignment: 9
+      pivot: {x: 0.34884, y: 0.01064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b243561c26dac364f8368deff6dacf33
+      internalID: 398322753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_06
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 128
+        width: 287
+        height: 380
+      alignment: 9
+      pivot: {x: 0.34146, y: 0.01053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac127202df81244ca5a05a67c5ce55a
+      internalID: 2060026206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_07
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 914
+        width: 301
+        height: 388
+      alignment: 9
+      pivot: {x: 0.34884, y: 0.01031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0144b1e09402d468107cec8bfed462
+      internalID: 1304418678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 132
+        width: 265
+        height: 376
+      alignment: 9
+      pivot: {x: 0.3283, y: 0.01064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5988eebb9a4575f43b339e1572a1a6d7
+      internalID: 797701448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_01
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 136
+        width: 401
+        height: 372
+      alignment: 9
+      pivot: {x: 0.62344, y: 0.01075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c2f4db2279211478d6da4008796fee
+      internalID: -2105190126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_02
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1311
+        width: 394
+        height: 407
+      alignment: 9
+      pivot: {x: 0.6269, y: 0.00983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b457bdb43b1459d4f841dd6544f4b9a5
+      internalID: -1131965789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_03
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 910
+        width: 369
+        height: 392
+      alignment: 9
+      pivot: {x: 0.63415, y: 0.0102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01e50709508fc944b1b22456a1fa428
+      internalID: 1110678536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_04
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 910
+        width: 394
+        height: 392
+      alignment: 9
+      pivot: {x: 0.6269, y: 0.0102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f565b51dd3dc846af184956d51947d
+      internalID: -1670382591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_05
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 139
+        width: 368
+        height: 369
+      alignment: 9
+      pivot: {x: 0.63587, y: 0.01084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302077ca98245547a3d60b0ced0c06b
+      internalID: 442300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_06
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 902
+        width: 451
+        height: 400
+      alignment: 9
+      pivot: {x: 0.60976, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98077bb2cf13274ea058f02c2e543d6
+      internalID: -1386000706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_07
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1305
+        width: 421
+        height: 413
+      alignment: 9
+      pivot: {x: 0.61758, y: 0.00969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b9bc67bc2453446b3988c8f3c06235
+      internalID: -1343704695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_08
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 2150
+        width: 441
+        height: 424
+      alignment: 9
+      pivot: {x: 0.61224, y: 0.01179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c14a495342ed488e72189b129c541
+      internalID: -242401332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_09
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1723
+        width: 424
+        height: 421
+      alignment: 9
+      pivot: {x: 0.61792, y: 0.01188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5e44eb604bdea41b3aa0f00513ac9d
+      internalID: -412889653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 2591
+        width: 440
+        height: 430
+      alignment: 9
+      pivot: {x: 0.61364, y: 0.0093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9650db6395831e44f84a2215adada025
+      internalID: -1028106963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_01
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 908
+        width: 273
+        height: 394
+      alignment: 9
+      pivot: {x: 0.51648, y: 0.01269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e3017eeb10d9b45a6b375da440600f
+      internalID: -1915462956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_02
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1305
+        width: 240
+        height: 413
+      alignment: 9
+      pivot: {x: 0.51667, y: 0.01211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed49a5d1d63941241b0de509ff75d1d3
+      internalID: -1816795015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_03
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 517
+        width: 244
+        height: 382
+      alignment: 9
+      pivot: {x: 0.51639, y: 0.01309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7d6a2e11d34c34293f31f6adcf3c3d
+      internalID: -1179476964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_05
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2147
+        width: 243
+        height: 427
+      alignment: 9
+      pivot: {x: 0.51852, y: 0.00937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d6c18472d5876428dc9c760670dec4
+      internalID: 545499923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_06
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 2583
+        width: 236
+        height: 438
+      alignment: 9
+      pivot: {x: 0.51695, y: 0.01142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f9d287825d454c9d926052bbed83b
+      internalID: 694080089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_07
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 2586
+        width: 235
+        height: 435
+      alignment: 9
+      pivot: {x: 0.51915, y: 0.01149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad8e995332f1f64ca003a6ef28c398e
+      internalID: -2075189497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_08
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 511
+        width: 269
+        height: 388
+      alignment: 9
+      pivot: {x: 0.51301, y: 0.01289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746ec089ded35db488c712cbbfd1cee0
+      internalID: 1782466181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_09
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 142
+        width: 265
+        height: 366
+      alignment: 9
+      pivot: {x: 0.51321, y: 0.01366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6632918c234fb4a941148c8ec11a06
+      internalID: 1040438641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_JumpInPlace_02
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 134
+        width: 230
+        height: 374
+      alignment: 9
+      pivot: {x: 0.41304, y: 0.01604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5758fcb1b22261148a54ac0296ecd144
+      internalID: -1518856805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_JumpInPlace_03
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 133
+        width: 262
+        height: 375
+      alignment: 9
+      pivot: {x: 0.42366, y: 0.01333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9857e5bb62a3aa544bfb6ec4d523f289
+      internalID: -2146282758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_JumpInPlace_06
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 913
+        width: 267
+        height: 389
+      alignment: 9
+      pivot: {x: 0.42697, y: 0.01542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61593d73b917c054b835b75df001c89f
+      internalID: -579999667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_JumpInPlace_07
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1729
+        width: 264
+        height: 415
+      alignment: 9
+      pivot: {x: 0.42424, y: 0.01446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af6210c8fcccf040857c81e0a18ae26
+      internalID: -1085237320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_JumpInPlace_08
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 514
+        width: 256
+        height: 385
+      alignment: 9
+      pivot: {x: 0.42188, y: 0.01558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748512e4df3db9f4d9d55c48c9b22220
+      internalID: 1737514123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_JumpInPlace_09
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 516
+        width: 262
+        height: 383
+      alignment: 9
+      pivot: {x: 0.42366, y: 0.01567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea68c64f1ca7ed48aec2b02fb30c7af
+      internalID: -653683455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_JumpInPlace_01
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 511
+        width: 374
+        height: 388
+      alignment: 9
+      pivot: {x: 0.70588, y: 0.01289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358d951f27858e1479b91fed3143d07e
+      internalID: 1878577165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_JumpInPlace_02
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 902
+        width: 347
+        height: 400
+      alignment: 9
+      pivot: {x: 0.72046, y: 0.0125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13924c8afc9a2a46a61cb24ec6e4bb1
+      internalID: 127350809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_JumpInPlace_03
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 1315
+        width: 349
+        height: 403
+      alignment: 9
+      pivot: {x: 0.7192, y: 0.01241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4718b798f1c4de4887c38040de4cd03
+      internalID: 972118498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_JumpInPlace_04
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 903
+        width: 351
+        height: 399
+      alignment: 9
+      pivot: {x: 0.71795, y: 0.01253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb46aa2c0852a74c901546fee6ecaf8
+      internalID: -1218239102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_JumpInPlace_05
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 903
+        width: 353
+        height: 399
+      alignment: 9
+      pivot: {x: 0.71671, y: 0.01253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e334c69cdb6c26644a6977dee3496ec9
+      internalID: -59580415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_JumpInPlace_06
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1724
+        width: 353
+        height: 420
+      alignment: 9
+      pivot: {x: 0.71671, y: 0.0119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3503d611fd60c8b408ffda4ca5afcab8
+      internalID: 59010162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_JumpInPlace_07
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 2585
+        width: 358
+        height: 436
+      alignment: 9
+      pivot: {x: 0.71508, y: 0.01147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9ebec5378ad074ab71709ef83017c6
+      internalID: 1274119442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_JumpInPlace_08
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 2589
+        width: 358
+        height: 432
+      alignment: 9
+      pivot: {x: 0.71508, y: 0.01157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5b65fea121a114ebe9271e0d4ad3d8
+      internalID: -862384567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Sword_To_Bow_00
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 3038
+        width: 306
+        height: 444
+      alignment: 9
+      pivot: {x: 0.51634, y: 0.00676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d25837a8d7e9d34491ea8332b5372de
+      internalID: 1403030805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Sword_To_Bow_01
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3038
+        width: 326
+        height: 444
+      alignment: 9
+      pivot: {x: 0.55828, y: 0.00676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0bd2963da14be4a928cdcf203747d2
+      internalID: -1403975351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Sword_To_Bow_02
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 3038
+        width: 299
+        height: 444
+      alignment: 9
+      pivot: {x: 0.49833, y: 0.00676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fa00211ba89db4991e8597f87e13e7
+      internalID: -765003234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Sword_To_Bow_03
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2578
+        width: 311
+        height: 443
+      alignment: 9
+      pivot: {x: 0.47267, y: 0.00451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d5822574b982a4b94b71bc50e47c5e
+      internalID: -1053566517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Sword_To_GreatSword_00
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 3038
+        width: 306
+        height: 444
+      alignment: 9
+      pivot: {x: 0.51961, y: 0.00901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfbb04d7b3b5d24c915b6f1cf1e741e
+      internalID: -1165847119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Sword_To_GreatSword_01
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 3038
+        width: 280
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1cbc1dad1764449431147845e3cda
+      internalID: 936503203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Sword_To_GreatSword_02
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 3622
+        width: 300
+        height: 471
+      alignment: 9
+      pivot: {x: 0.49333, y: 0.00849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d76063740cc9a43ad1756a2162b37d
+      internalID: 397722102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Sword_To_GreatSword_03
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 3634
+        width: 320
+        height: 459
+      alignment: 9
+      pivot: {x: 0.47187, y: 0.00871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ced094c601026a4fb2cad6cac3dbcfb
+      internalID: 1443518814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Bow_To_Sword_00
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2578
+        width: 312
+        height: 443
+      alignment: 9
+      pivot: {x: 0.47115, y: 0.00903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02143c90315f4b84286f9e7ceaadb068
+      internalID: 1078595647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Bow_To_Sword_01
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 3038
+        width: 298
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12789b042073c4a4cbb7ecf0dfc65fec
+      internalID: 1282252206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Bow_To_Sword_02
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 3038
+        width: 323
+        height: 444
+      alignment: 9
+      pivot: {x: 0.55728, y: 0.01126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d8072fe126ca46a8ab022cf01ea7d
+      internalID: 750805739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Bow_To_Sword_03
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 3038
+        width: 306
+        height: 444
+      alignment: 9
+      pivot: {x: 0.51961, y: 0.01126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e432476f84c10c4fb793992c0dd4298
+      internalID: 1381998419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Bow_To_GreatSword_00
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2578
+        width: 312
+        height: 443
+      alignment: 9
+      pivot: {x: 0.47115, y: 0.00903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370baf3d6253ac248a44c64b865c10bd
+      internalID: -1433589639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Bow_To_GreatSword_01
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 3038
+        width: 291
+        height: 444
+      alignment: 9
+      pivot: {x: 0.49828, y: 0.01126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f83458b0c2a64e4b9ca74bbc14c0152
+      internalID: -1693370830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Bow_To_GreatSword_02
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3024
+        width: 302
+        height: 458
+      alignment: 9
+      pivot: {x: 0.48344, y: 0.0131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ade4969f98cfc4999050c361b92bed
+      internalID: -1307158281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_Bow_To_GreatSword_03
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3634
+        width: 320
+        height: 459
+      alignment: 9
+      pivot: {x: 0.47187, y: 0.01089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac508c3aebbdb849b675aa77d5fd052
+      internalID: -516962801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_GreatSword_To_Sword_00
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 3634
+        width: 320
+        height: 459
+      alignment: 9
+      pivot: {x: 0.47187, y: 0.00871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c663b7ccb1535f64c8d4ebbe420d968e
+      internalID: -1081401489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_GreatSword_To_Sword_01
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 3622
+        width: 300
+        height: 471
+      alignment: 9
+      pivot: {x: 0.49333, y: 0.00849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e8ba5095bcbe341957ec8f96b8a0ed
+      internalID: 2038674385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_GreatSword_To_Sword_02
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 3038
+        width: 280
+        height: 444
+      alignment: 9
+      pivot: {x: 0.5, y: 0.00901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad13d0fb59c52f4996f3a50e7403851
+      internalID: -1133306224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_GreatSword_To_Sword_03
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 3038
+        width: 306
+        height: 444
+      alignment: 9
+      pivot: {x: 0.51961, y: 0.00901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aada78c9bc76e646b56f82f849ec0a5
+      internalID: -1876160783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_GreatSword_To_Bow_00
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 3634
+        width: 320
+        height: 459
+      alignment: 9
+      pivot: {x: 0.47187, y: 0.00871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52a1de109605f342a8efaa6ea042da8
+      internalID: -1161657809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_GreatSword_To_Bow_01
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3024
+        width: 302
+        height: 458
+      alignment: 9
+      pivot: {x: 0.48344, y: 0.01092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fdaa01375bac849b944a628e4106ed
+      internalID: 2026628171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_GreatSword_To_Bow_02
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2577
+        width: 291
+        height: 444
+      alignment: 9
+      pivot: {x: 0.49828, y: 0.00901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48c4bd6136c45a4295eb758b030f676
+      internalID: -1105696401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swap_GreatSword_To_Bow_03
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2578
+        width: 312
+        height: 443
+      alignment: 9
+      pivot: {x: 0.47115, y: 0.00677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97abd721a5067f649b7a57d188b22200
+      internalID: -1201153078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9d4e60db454a62045a825505369cc6d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bow_Attack_00: 1046978154
+      Bow_Attack_01: 944467504
+      Bow_Attack_02: 1161174276
+      Bow_Attack_03: 1311333167
+      Bow_Idle_00: 1254405843
+      Bow_Idle_01: 2093849136
+      Bow_Idle_02: -717650735
+      Bow_Idle_03: 575592250
+      Bow_JumpInPlace_02: -1518856805
+      Bow_JumpInPlace_03: -2146282758
+      Bow_JumpInPlace_06: -579999667
+      Bow_JumpInPlace_07: -1085237320
+      Bow_JumpInPlace_08: 1737514123
+      Bow_JumpInPlace_09: -653683455
+      Bow_Jump_01: 1344028579
+      Bow_Jump_02: -695610746
+      Bow_Jump_03: 398322753
+      Bow_Jump_06: 2060026206
+      Bow_Jump_07: 1304418678
+      Bow_Jump_11: 797701448
+      Death_00: 1709992420
+      Death_01: -1036656011
+      Death_02: -2098334990
+      GreatSword_Attack_00: -1093504706
+      GreatSword_Attack_01: 1868390917
+      GreatSword_Attack_02: 1139131854
+      GreatSword_Attack_03: -1288998159
+      GreatSword_Idle_00: 625508981
+      GreatSword_Idle_01: -688726657
+      GreatSword_Idle_02: 1810912574
+      GreatSword_Idle_03: -291444757
+      GreatSword_JumpInPlace_01: 1878577165
+      GreatSword_JumpInPlace_02: 127350809
+      GreatSword_JumpInPlace_03: 972118498
+      GreatSword_JumpInPlace_04: -1218239102
+      GreatSword_JumpInPlace_05: -59580415
+      GreatSword_JumpInPlace_06: 59010162
+      GreatSword_JumpInPlace_07: 1274119442
+      GreatSword_JumpInPlace_08: -862384567
+      GreatSword_Jump_01: -2105190126
+      GreatSword_Jump_02: -1131965789
+      GreatSword_Jump_03: 1110678536
+      GreatSword_Jump_04: -1670382591
+      GreatSword_Jump_05: 442300164
+      GreatSword_Jump_06: -1386000706
+      GreatSword_Jump_07: -1343704695
+      GreatSword_Jump_08: -242401332
+      GreatSword_Jump_09: -412889653
+      GreatSword_Jump_11: -1028106963
+      Run_00: -1431365534
+      Run_01: -657133872
+      Run_02: -1783393337
+      Run_03: -641432026
+      Swap_Bow_To_GreatSword_00: -1433589639
+      Swap_Bow_To_GreatSword_01: -1693370830
+      Swap_Bow_To_GreatSword_02: -1307158281
+      Swap_Bow_To_GreatSword_03: -516962801
+      Swap_Bow_To_Sword_00: 1078595647
+      Swap_Bow_To_Sword_01: 1282252206
+      Swap_Bow_To_Sword_02: 750805739
+      Swap_Bow_To_Sword_03: 1381998419
+      Swap_GreatSword_To_Bow_00: -1161657809
+      Swap_GreatSword_To_Bow_01: 2026628171
+      Swap_GreatSword_To_Bow_02: -1105696401
+      Swap_GreatSword_To_Bow_03: -1201153078
+      Swap_GreatSword_To_Sword_00: -1081401489
+      Swap_GreatSword_To_Sword_01: 2038674385
+      Swap_GreatSword_To_Sword_02: -1133306224
+      Swap_GreatSword_To_Sword_03: -1876160783
+      Swap_Sword_To_Bow_00: 1403030805
+      Swap_Sword_To_Bow_01: -1403975351
+      Swap_Sword_To_Bow_02: -765003234
+      Swap_Sword_To_Bow_03: -1053566517
+      Swap_Sword_To_GreatSword_00: -1165847119
+      Swap_Sword_To_GreatSword_01: 936503203
+      Swap_Sword_To_GreatSword_02: 397722102
+      Swap_Sword_To_GreatSword_03: 1443518814
+      Sword_Attack_00: 119987852
+      Sword_Attack_01: 266735291
+      Sword_Attack_02: 2100811227
+      Sword_Idle_00: 1881335662
+      Sword_Idle_01: -1092043836
+      Sword_Idle_02: 1473505480
+      Sword_Idle_03: 290600407
+      Sword_JumpInPlace_01: -1915462956
+      Sword_JumpInPlace_02: -1816795015
+      Sword_JumpInPlace_03: -1179476964
+      Sword_JumpInPlace_05: 545499923
+      Sword_JumpInPlace_06: 694080089
+      Sword_JumpInPlace_07: -2075189497
+      Sword_JumpInPlace_08: 1782466181
+      Sword_JumpInPlace_09: 1040438641
+      Sword_Jump_00: 580102385
+      Sword_Jump_01: -392372905
+      Sword_Jump_02: 1725238979
+      Sword_Jump_03: -1017321690
+      Sword_Jump_04: -1155259153
+      Sword_Jump_05: -1318637924
+      Sword_Jump_06: -2037184039
+      Sword_Jump_07: -456016485
+      Sword_Jump_08: 1506681601
+      Sword_Jump_09: -349709892
+      Sword_Jump_10: 806586052
+      Sword_Jump_11: 1438760261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

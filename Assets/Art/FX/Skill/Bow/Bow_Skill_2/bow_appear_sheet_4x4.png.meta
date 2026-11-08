@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: 3eddca918dc928042ad765dc1c0edcca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3368124169178362159
+    second: bow_appear_sheet_4x4_0
+  - first:
+      213: -7159871934849012267
+    second: bow_appear_sheet_4x4_1
+  - first:
+      213: -7427101403916544746
+    second: bow_appear_sheet_4x4_2
+  - first:
+      213: -2324486924255569140
+    second: bow_appear_sheet_4x4_3
+  - first:
+      213: 5797256185918338376
+    second: bow_appear_sheet_4x4_4
+  - first:
+      213: 602330469001031095
+    second: bow_appear_sheet_4x4_5
+  - first:
+      213: 8924899177036526541
+    second: bow_appear_sheet_4x4_6
+  - first:
+      213: -8086072834991488274
+    second: bow_appear_sheet_4x4_7
+  - first:
+      213: 3927664621553432227
+    second: bow_appear_sheet_4x4_8
+  - first:
+      213: 5317498783120635497
+    second: bow_appear_sheet_4x4_9
+  - first:
+      213: -6330589964139122225
+    second: bow_appear_sheet_4x4_10
+  - first:
+      213: -4257939244164233624
+    second: bow_appear_sheet_4x4_11
+  - first:
+      213: 8131473329050034229
+    second: bow_appear_sheet_4x4_12
+  - first:
+      213: -6375754969131756349
+    second: bow_appear_sheet_4x4_13
+  - first:
+      213: 4505116535324249128
+    second: bow_appear_sheet_4x4_14
+  - first:
+      213: 4951571419154720153
+    second: bow_appear_sheet_4x4_15
+  - first:
+      213: 5284141265764033608
+    second: bow_appear_sheet_4x4_16
+  - first:
+      213: 1961030071409202303
+    second: bow_appear_sheet_4x4_17
+  - first:
+      213: -8865557043635043064
+    second: bow_appear_sheet_4x4_18
+  - first:
+      213: 3698357901947205544
+    second: bow_appear_sheet_4x4_19
+  - first:
+      213: 6785302950275047935
+    second: bow_appear_sheet_4x4_20
+  - first:
+      213: 5154640876208846886
+    second: bow_appear_sheet_4x4_21
+  - first:
+      213: -5414826285860677178
+    second: bow_appear_sheet_4x4_22
+  - first:
+      213: -6436747755342833726
+    second: bow_appear_sheet_4x4_23
+  - first:
+      213: 3125783650049406096
+    second: bow_appear_sheet_4x4_24
+  - first:
+      213: 10683152881724391
+    second: bow_appear_sheet_4x4_25
+  - first:
+      213: 7345102784347373951
+    second: bow_appear_sheet_4x4_26
+  - first:
+      213: -1421168520363730438
+    second: bow_appear_sheet_4x4_27
+  - first:
+      213: 6926268964305228887
+    second: bow_appear_sheet_4x4_28
+  - first:
+      213: 7495068712167422026
+    second: bow_appear_sheet_4x4_29
+  - first:
+      213: -4492285830586600602
+    second: bow_appear_sheet_4x4_30
+  - first:
+      213: -8283467781110343274
+    second: bow_appear_sheet_4x4_31
+  - first:
+      213: 4272708403712316804
+    second: bow_appear_sheet_4x4_32
+  - first:
+      213: 2517833130522282667
+    second: bow_appear_sheet_4x4_33
+  - first:
+      213: -1187776241474190840
+    second: bow_appear_sheet_4x4_34
+  - first:
+      213: -267908224522871272
+    second: bow_appear_sheet_4x4_35
+  - first:
+      213: 7107248739114186719
+    second: bow_appear_sheet_4x4_36
+  - first:
+      213: -9200838461060775941
+    second: bow_appear_sheet_4x4_37
+  - first:
+      213: -8891013506056691336
+    second: bow_appear_sheet_4x4_38
+  - first:
+      213: 8964098057515458491
+    second: bow_appear_sheet_4x4_39
+  - first:
+      213: 1710647584631126219
+    second: bow_appear_sheet_4x4_40
+  - first:
+      213: -85789603765188054
+    second: bow_appear_sheet_4x4_41
+  - first:
+      213: 151570780768134561
+    second: bow_appear_sheet_4x4_42
+  - first:
+      213: -4125820389006940617
+    second: bow_appear_sheet_4x4_43
+  - first:
+      213: 8903101972602988568
+    second: bow_appear_sheet_4x4_44
+  - first:
+      213: 2393501653572407151
+    second: bow_appear_sheet_4x4_45
+  - first:
+      213: 6954951581856081335
+    second: bow_appear_sheet_4x4_46
+  - first:
+      213: -6173026425487617641
+    second: bow_appear_sheet_4x4_47
+  - first:
+      213: -7206773567678656750
+    second: bow_appear_sheet_4x4_48
+  - first:
+      213: 3442197838921644344
+    second: bow_appear_sheet_4x4_49
+  - first:
+      213: -8810907760585779459
+    second: bow_appear_sheet_4x4_50
+  - first:
+      213: 1270510051697196566
+    second: bow_appear_sheet_4x4_51
+  - first:
+      213: -5967915040959876828
+    second: bow_appear_sheet_4x4_52
+  - first:
+      213: -6609898436342691190
+    second: bow_appear_sheet_4x4_53
+  - first:
+      213: 2406023507855640224
+    second: bow_appear_sheet_4x4_54
+  - first:
+      213: -4937863081059065369
+    second: bow_appear_sheet_4x4_55
+  - first:
+      213: 2867711647553197433
+    second: bow_appear_sheet_4x4_56
+  - first:
+      213: -5210317740149029748
+    second: bow_appear_sheet_4x4_57
+  - first:
+      213: 7208822163103091312
+    second: bow_appear_sheet_4x4_58
+  - first:
+      213: -771616443622508544
+    second: bow_appear_sheet_4x4_59
+  - first:
+      213: 8252132778499105998
+    second: bow_appear_sheet_4x4_60
+  - first:
+      213: 3212971884648893598
+    second: bow_appear_sheet_4x4_61
+  - first:
+      213: -5573091502366328159
+    second: bow_appear_sheet_4x4_62
+  - first:
+      213: 1310401755757813149
+    second: bow_appear_sheet_4x4_63
+  - first:
+      213: 4836341800929113290
+    second: bow_appear_sheet_4x4_64
+  - first:
+      213: 3260262873747403055
+    second: bow_appear_sheet_4x4_65
+  - first:
+      213: -7188151429083629102
+    second: bow_appear_sheet_4x4_66
+  - first:
+      213: -6314864892658048154
+    second: bow_appear_sheet_4x4_67
+  - first:
+      213: -1229189566735717012
+    second: bow_appear_sheet_4x4_68
+  - first:
+      213: 1991135233546044030
+    second: bow_appear_sheet_4x4_69
+  - first:
+      213: 5510317036823046333
+    second: bow_appear_sheet_4x4_70
+  - first:
+      213: 5188672482964368070
+    second: bow_appear_sheet_4x4_71
+  - first:
+      213: 5149747971014253349
+    second: bow_appear_sheet_4x4_72
+  - first:
+      213: -2420464887265801263
+    second: bow_appear_sheet_4x4_73
+  - first:
+      213: -1485297587162098495
+    second: bow_appear_sheet_4x4_74
+  - first:
+      213: 376274004094731023
+    second: bow_appear_sheet_4x4_75
+  - first:
+      213: 1828794261944970821
+    second: bow_appear_sheet_4x4_76
+  - first:
+      213: -8993668128663304372
+    second: bow_appear_sheet_4x4_77
+  - first:
+      213: 1486179739061768239
+    second: bow_appear_sheet_4x4_78
+  - first:
+      213: -6623097446240788739
+    second: bow_appear_sheet_4x4_79
+  - first:
+      213: -2895301798281840277
+    second: bow_appear_sheet_4x4_80
+  - first:
+      213: -7367110439206861774
+    second: bow_appear_sheet_4x4_81
+  - first:
+      213: -1813533763181605073
+    second: bow_appear_sheet_4x4_82
+  - first:
+      213: 3723049749649959952
+    second: bow_appear_sheet_4x4_83
+  - first:
+      213: 8731554010372512566
+    second: bow_appear_sheet_4x4_84
+  - first:
+      213: 744675582719028091
+    second: bow_appear_sheet_4x4_85
+  - first:
+      213: -8664597972966498772
+    second: bow_appear_sheet_4x4_86
+  - first:
+      213: 1650836224468548976
+    second: bow_appear_sheet_4x4_87
+  - first:
+      213: -7536594248794967338
+    second: bow_appear_sheet_4x4_88
+  - first:
+      213: 8183563735126324308
+    second: bow_appear_sheet_4x4_89
+  - first:
+      213: 1124658664507195735
+    second: bow_appear_sheet_4x4_90
+  - first:
+      213: -5149637538649684068
+    second: bow_appear_sheet_4x4_91
+  - first:
+      213: -7871985296208790654
+    second: bow_appear_sheet_4x4_92
+  - first:
+      213: 7009042867932554155
+    second: bow_appear_sheet_4x4_93
+  - first:
+      213: -5328368137173966674
+    second: bow_appear_sheet_4x4_94
+  - first:
+      213: -8176472584015777265
+    second: bow_appear_sheet_4x4_95
+  - first:
+      213: -6164446638593081101
+    second: bow_appear_sheet_4x4_96
+  - first:
+      213: -2113926308101481297
+    second: bow_appear_sheet_4x4_97
+  - first:
+      213: -5047499387110281677
+    second: bow_appear_sheet_4x4_98
+  - first:
+      213: -157421941936743687
+    second: bow_appear_sheet_4x4_99
+  - first:
+      213: -713426042771601058
+    second: bow_appear_sheet_4x4_100
+  - first:
+      213: 8505092839807335936
+    second: bow_appear_sheet_4x4_101
+  - first:
+      213: -7123668744453560048
+    second: bow_appear_sheet_4x4_102
+  - first:
+      213: -410987485900381514
+    second: bow_appear_sheet_4x4_103
+  - first:
+      213: 4704812425360227073
+    second: bow_appear_sheet_4x4_104
+  - first:
+      213: -8557496481121613773
+    second: bow_appear_sheet_4x4_105
+  - first:
+      213: -3593520928193525814
+    second: bow_appear_sheet_4x4_106
+  - first:
+      213: -3722123477928814236
+    second: bow_appear_sheet_4x4_107
+  - first:
+      213: 5525380760710720237
+    second: bow_appear_sheet_4x4_108
+  - first:
+      213: -4588679146044765321
+    second: bow_appear_sheet_4x4_109
+  - first:
+      213: -4762852462713456158
+    second: bow_appear_sheet_4x4_110
+  - first:
+      213: 3344978629638009985
+    second: bow_appear_sheet_4x4_111
+  - first:
+      213: 6667580898438238507
+    second: bow_appear_sheet_4x4_112
+  - first:
+      213: 3207376916701490961
+    second: bow_appear_sheet_4x4_113
+  - first:
+      213: 4952752045809115651
+    second: bow_appear_sheet_4x4_114
+  - first:
+      213: -7582016338908823318
+    second: bow_appear_sheet_4x4_115
+  - first:
+      213: -399265959838703771
+    second: bow_appear_sheet_4x4_116
+  - first:
+      213: 6500197733699835681
+    second: bow_appear_sheet_4x4_117
+  - first:
+      213: 353195375265662965
+    second: bow_appear_sheet_4x4_118
+  - first:
+      213: -826381670066128690
+    second: bow_appear_sheet_4x4_119
+  - first:
+      213: 7645629430351456818
+    second: bow_appear_sheet_4x4_120
+  - first:
+      213: -733096295948821911
+    second: bow_appear_sheet_4x4_121
+  - first:
+      213: -4180580977692839522
+    second: bow_appear_sheet_4x4_122
+  - first:
+      213: 361418158599768827
+    second: bow_appear_sheet_4x4_123
+  - first:
+      213: -5995961588974166223
+    second: bow_appear_sheet_4x4_124
+  - first:
+      213: 4538472158439533285
+    second: bow_appear_sheet_4x4_125
+  - first:
+      213: 8320025331592988589
+    second: bow_appear_sheet_4x4_126
+  - first:
+      213: 4194204761038677291
+    second: bow_appear_sheet_4x4_127
+  - first:
+      213: 5064467956590593360
+    second: bow_appear_sheet_4x4_128
+  - first:
+      213: 3260284833559309875
+    second: bow_appear_sheet_4x4_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BowAppear_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008fdc2dedbe5f9419575437f390f80d
+      internalID: 283792980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41061e70531cd764c9d194a9167597f6
+      internalID: 1194345740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_02
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752512948a1e7d7438ee4e984d04d920
+      internalID: 40713664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_03
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02b81fc37f435c4f8952f7b0ec9296f
+      internalID: 1597107347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8801976ee16c45d4c81a9c48a78ef84d
+      internalID: -812052688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_05
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc435894116c05a48a3610bf4cf8919b
+      internalID: -585632119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_06
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809fdf77383afe7448da1c881f60ef50
+      internalID: -391107170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_07
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa6beba151f4f44f82928e0720bad39
+      internalID: -1437529886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ced59bd7cfe83f4ea1db0a6d2d306d9
+      internalID: -1793777779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_09
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dce33ecf127f348aa2616e7920cffd
+      internalID: -1039761894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f59487e5c326c499ff1e52b290fcb7
+      internalID: 1207399011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_11
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034a660f9c1983e47870efa0de58cc22
+      internalID: 1876181015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e63b7cf38125e4c901d80a1a3fd18b
+      internalID: -740321530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3a77b2d262e264d8f29daa5be402d9
+      internalID: -231044675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowAppear_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 384
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f66cefe75e9ec4f8c21c516fd1cbb9
+      internalID: 1896419199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b56c100ab3722cc46ac932ca2723f69a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BowAppear_00: 283792980
+      BowAppear_01: 1194345740
+      BowAppear_02: 40713664
+      BowAppear_03: 1597107347
+      BowAppear_04: -812052688
+      BowAppear_05: -585632119
+      BowAppear_06: -391107170
+      BowAppear_07: -1437529886
+      BowAppear_08: -1793777779
+      BowAppear_09: -1039761894
+      BowAppear_10: 1207399011
+      BowAppear_11: 1876181015
+      BowAppear_12: -740321530
+      BowAppear_13: -231044675
+      BowAppear_14: 1896419199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

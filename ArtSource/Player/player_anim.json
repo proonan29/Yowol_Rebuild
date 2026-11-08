@@ -1,0 +1,439 @@
+{
+ "cell": [
+  768,
+  656
+ ],
+ "pivotPx": [
+  384,
+  24
+ ],
+ "pivot": [
+  0.5,
+  0.036585365853658534
+ ],
+ "pixelsPerUnit": 256,
+ "clips": {
+  "Sword_Idle": {
+   "frames": 4,
+   "durations": [
+    0.16,
+    0.16,
+    0.16,
+    0.15
+   ],
+   "loop": true,
+   "source": [
+    "Idle_0",
+    "Idle_1",
+    "Idle_2",
+    "Idle_3"
+   ]
+  },
+  "Bow_Idle": {
+   "frames": 4,
+   "durations": [
+    0.1,
+    0.13,
+    0.12,
+    0.13
+   ],
+   "loop": true,
+   "source": [
+    "Bow_Idle_0",
+    "Bow_Idle_1",
+    "Bow_Idle_2",
+    "Bow_Idle_3"
+   ]
+  },
+  "GreatSword_Idle": {
+   "frames": 4,
+   "durations": [
+    0.15,
+    0.15,
+    0.15,
+    0.13
+   ],
+   "loop": true,
+   "source": [
+    "LongSword1",
+    "LongSword2",
+    "LongSword3",
+    "LongSword4"
+   ]
+  },
+  "Run": {
+   "frames": 4,
+   "durations": [
+    0.13,
+    0.13,
+    0.13,
+    0.13
+   ],
+   "loop": true,
+   "source": [
+    "Run_0",
+    "Run_1",
+    "Run_2",
+    "Run_3"
+   ]
+  },
+  "Sword_Attack": {
+   "frames": 3,
+   "durations": [
+    0.083,
+    0.083,
+    0.12
+   ],
+   "loop": false,
+   "source": [
+    "Attack_0",
+    "Attack_1",
+    "Attack_2"
+   ]
+  },
+  "GreatSword_Attack": {
+   "frames": 4,
+   "durations": [
+    0.083,
+    0.05,
+    0.05,
+    0.12
+   ],
+   "loop": false,
+   "source": [
+    "Lsword_Attack_0",
+    "Lsword_Attack_1",
+    "Lsword_Attack_2",
+    "Lsword_Attack_3"
+   ]
+  },
+  "Bow_Attack": {
+   "frames": 4,
+   "durations": [
+    0.1,
+    0.1,
+    0.12,
+    0.12
+   ],
+   "loop": false,
+   "source": [
+    "Bow_Attack_0",
+    "Bow_Attack_1",
+    "Bow_Attack_2",
+    "Bow_Attack_3"
+   ]
+  },
+  "Death": {
+   "frames": 8,
+   "durations": [
+    0.083,
+    0.067,
+    0.083,
+    0.083,
+    0.083,
+    0.067,
+    0.05,
+    0.4
+   ],
+   "loop": false,
+   "source": [
+    "death_01",
+    "death_02",
+    "death_03",
+    "death_04",
+    "death_05",
+    "death_06",
+    "death_07",
+    "death_08"
+   ]
+  },
+  "Sword_Jump": {
+   "frames": 12,
+   "durations": [
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055
+   ],
+   "loop": false,
+   "source": [
+    "jump_01",
+    "jump_02",
+    "jump_03",
+    "jump_04",
+    "jump_05",
+    "jump_06",
+    "jump_07",
+    "jump_08",
+    "jump_09",
+    "jump_10",
+    "jump_11",
+    "jump_12"
+   ]
+  },
+  "Bow_Jump": {
+   "frames": 12,
+   "durations": [
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055
+   ],
+   "loop": false,
+   "source": [
+    "jump_01",
+    "jump_02",
+    "jump_03",
+    "jump_04",
+    "jump_05",
+    "jump_06",
+    "jump_07",
+    "jump_08",
+    "jump_09",
+    "jump_10",
+    "jump_11",
+    "jump_12"
+   ]
+  },
+  "GreatSword_Jump": {
+   "frames": 12,
+   "durations": [
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055
+   ],
+   "loop": false,
+   "source": [
+    "jump_01",
+    "jump_02",
+    "jump_03",
+    "jump_04",
+    "jump_05",
+    "jump_06",
+    "jump_07",
+    "jump_08",
+    "jump_09",
+    "jump_10",
+    "jump_11",
+    "jump_12"
+   ]
+  },
+  "Sword_JumpInPlace": {
+   "frames": 12,
+   "durations": [
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055
+   ],
+   "loop": false,
+   "source": [
+    "jump_01",
+    "jump_02",
+    "jump_03",
+    "jump_04",
+    "jump_05",
+    "jump_06",
+    "jump_07",
+    "jump_08",
+    "jump_09",
+    "jump_10",
+    "jump_11",
+    "jump_12"
+   ]
+  },
+  "Bow_JumpInPlace": {
+   "frames": 12,
+   "durations": [
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055
+   ],
+   "loop": false,
+   "source": [
+    "jump_01",
+    "jump_02",
+    "jump_03",
+    "jump_04",
+    "jump_05",
+    "jump_06",
+    "jump_07",
+    "jump_08",
+    "jump_09",
+    "jump_10",
+    "jump_11",
+    "jump_12"
+   ]
+  },
+  "GreatSword_JumpInPlace": {
+   "frames": 12,
+   "durations": [
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055,
+    0.055
+   ],
+   "loop": false,
+   "source": [
+    "jump_01",
+    "jump_02",
+    "jump_03",
+    "jump_04",
+    "jump_05",
+    "jump_06",
+    "jump_07",
+    "jump_08",
+    "jump_09",
+    "jump_10",
+    "jump_11",
+    "jump_12"
+   ]
+  },
+  "Swap_Sword_To_Bow": {
+   "frames": 4,
+   "durations": [
+    0.1,
+    0.1,
+    0.1,
+    0.1
+   ],
+   "loop": false,
+   "source": [
+    "sword_to_bow_01",
+    "sword_to_bow_02",
+    "sword_to_bow_03",
+    "sword_to_bow_04"
+   ]
+  },
+  "Swap_Sword_To_GreatSword": {
+   "frames": 4,
+   "durations": [
+    0.1,
+    0.1,
+    0.1,
+    0.1
+   ],
+   "loop": false,
+   "source": [
+    "sword_to_greatsword_01",
+    "sword_to_greatsword_02",
+    "sword_to_greatsword_03",
+    "sword_to_greatsword_04"
+   ]
+  },
+  "Swap_Bow_To_Sword": {
+   "frames": 4,
+   "durations": [
+    0.1,
+    0.1,
+    0.1,
+    0.1
+   ],
+   "loop": false,
+   "source": [
+    "bow_to_sword_01",
+    "bow_to_sword_02",
+    "bow_to_sword_03",
+    "bow_to_sword_04"
+   ]
+  },
+  "Swap_Bow_To_GreatSword": {
+   "frames": 4,
+   "durations": [
+    0.1,
+    0.1,
+    0.1,
+    0.1
+   ],
+   "loop": false,
+   "source": [
+    "bow_to_greatsword_01",
+    "bow_to_greatsword_02",
+    "bow_to_greatsword_03",
+    "bow_to_greatsword_04"
+   ]
+  },
+  "Swap_GreatSword_To_Sword": {
+   "frames": 4,
+   "durations": [
+    0.1,
+    0.1,
+    0.1,
+    0.1
+   ],
+   "loop": false,
+   "source": [
+    "greatsword_to_sword_01",
+    "greatsword_to_sword_02",
+    "greatsword_to_sword_03",
+    "greatsword_to_sword_04"
+   ]
+  },
+  "Swap_GreatSword_To_Bow": {
+   "frames": 4,
+   "durations": [
+    0.1,
+    0.1,
+    0.1,
+    0.1
+   ],
+   "loop": false,
+   "source": [
+    "greatsword_to_bow_01",
+    "greatsword_to_bow_02",
+    "greatsword_to_bow_03",
+    "greatsword_to_bow_04"
+   ]
+  }
+ }
+}

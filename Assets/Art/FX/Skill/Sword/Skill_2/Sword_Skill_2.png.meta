@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: ccac9ae4861e2af45aabee04c874ddf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1039738451426710571
+    second: Sword_Skill_2_0
+  - first:
+      213: -389441036650385923
+    second: Sword_Skill_2_1
+  - first:
+      213: 8606961185571472114
+    second: Sword_Skill_2_2
+  - first:
+      213: 6078001991537522146
+    second: Sword_Skill_2_3
+  - first:
+      213: -8906204940896670472
+    second: Sword_Skill_2_4
+  - first:
+      213: -1906840710993430279
+    second: Sword_Skill_2_5
+  - first:
+      213: -8336230836215989749
+    second: Sword_Skill_2_6
+  - first:
+      213: -2573477134371214687
+    second: Sword_Skill_2_7
+  - first:
+      213: -8568172308545717445
+    second: Sword_Skill_2_8
+  - first:
+      213: -8679079730168332150
+    second: Sword_Skill_2_9
+  - first:
+      213: 2855006888352441326
+    second: Sword_Skill_2_10
+  - first:
+      213: 3065483282949151243
+    second: Sword_Skill_2_11
+  - first:
+      213: 4811640993116206803
+    second: Sword_Skill_2_12
+  - first:
+      213: -5165508697735333628
+    second: Sword_Skill_2_13
+  - first:
+      213: 3298590289146009345
+    second: Sword_Skill_2_14
+  - first:
+      213: -1782293999517962660
+    second: Sword_Skill_2_15
+  - first:
+      213: -8784552817672167475
+    second: Sword_Skill_2_16
+  - first:
+      213: 5667350791652660958
+    second: Sword_Skill_2_17
+  - first:
+      213: 8128377136651522788
+    second: Sword_Skill_2_18
+  - first:
+      213: 6355119041019664853
+    second: Sword_Skill_2_19
+  - first:
+      213: 1232550820255377732
+    second: Sword_Skill_2_20
+  - first:
+      213: 8001410063247747697
+    second: Sword_Skill_2_21
+  - first:
+      213: 2531495793825574846
+    second: Sword_Skill_2_22
+  - first:
+      213: 7113440962460655952
+    second: Sword_Skill_2_23
+  - first:
+      213: -8031525424072606418
+    second: Sword_Skill_2_24
+  - first:
+      213: 337070508039900392
+    second: Sword_Skill_2_25
+  - first:
+      213: -7962722802837065424
+    second: Sword_Skill_2_26
+  - first:
+      213: -4809069388708833910
+    second: Sword_Skill_2_27
+  - first:
+      213: -1409098421884578858
+    second: Sword_Skill_2_28
+  - first:
+      213: 4986645353955329294
+    second: Sword_Skill_2_29
+  - first:
+      213: 4912774203381699438
+    second: Sword_Skill_2_30
+  - first:
+      213: -444956424615294224
+    second: Sword_Skill_2_31
+  - first:
+      213: -7849368193032597634
+    second: Sword_Skill_2_32
+  - first:
+      213: 8768653092881177446
+    second: Sword_Skill_2_33
+  - first:
+      213: 8291132962041104128
+    second: Sword_Skill_2_34
+  - first:
+      213: -4449865949448836166
+    second: Sword_Skill_2_35
+  - first:
+      213: 2812805809498857334
+    second: Sword_Skill_2_36
+  - first:
+      213: -1811532199210418963
+    second: Sword_Skill_2_37
+  - first:
+      213: 5190181426205916389
+    second: Sword_Skill_2_38
+  - first:
+      213: 1689775257401736041
+    second: Sword_Skill_2_39
+  - first:
+      213: -2247476194498087026
+    second: Sword_Skill_2_40
+  - first:
+      213: -8855261370870979189
+    second: Sword_Skill_2_41
+  - first:
+      213: 4575873502058884629
+    second: Sword_Skill_2_42
+  - first:
+      213: -8586546908577934738
+    second: Sword_Skill_2_43
+  - first:
+      213: 2281075030772393890
+    second: Sword_Skill_2_44
+  - first:
+      213: 5498302061376952912
+    second: Sword_Skill_2_45
+  - first:
+      213: 3759653846978429125
+    second: Sword_Skill_2_46
+  - first:
+      213: -3142334485604643895
+    second: Sword_Skill_2_47
+  - first:
+      213: 8903091143404306440
+    second: Sword_Skill_2_48
+  - first:
+      213: -2670270009119426632
+    second: Sword_Skill_2_49
+  - first:
+      213: 2483558744736591472
+    second: Sword_Skill_2_50
+  - first:
+      213: 8114034185838516724
+    second: Sword_Skill_2_51
+  - first:
+      213: -7510718523629388970
+    second: Sword_Skill_2_52
+  - first:
+      213: 96536616993314335
+    second: Sword_Skill_2_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MoonSlash_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6ea282fb119fe4c9c29ecf40c73368
+      internalID: 199476230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_01
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1296
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e109de6f14005e48bb6dd1c51015339
+      internalID: 778170206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_02
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1296
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1a73bd07e9da458d41a3d9e4d4655
+      internalID: -1044363338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_03
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1296
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544c03ccce33aec4ab8b7f79607289d7
+      internalID: 425861393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957314ac03ac3fa408e0cc7e003990b7
+      internalID: -1849847171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_05
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 864
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3007f8d36b3b7a4d9dfd990858ecb81
+      internalID: -161114956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_06
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 864
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede678c9ae394249ae6cee51d055ad7
+      internalID: -2039285212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_07
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 864
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8282372a6a893984c94fe54ab43e8141
+      internalID: 556830345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376187d1bde67a84187b3e133080da11
+      internalID: -1833757830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_09
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 432
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c204535cb0a833e4494b3fe8252426a5
+      internalID: -205402495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 432
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44a7e6fbfbcf51468d73f095c802efe
+      internalID: -504945470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 432
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21656d2fdfe235745ba8581a58851ca0
+      internalID: -1252541949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f61f34c233c46b49bd0d0f854c0a829
+      internalID: 269765891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSlash_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 432
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebad16c8df906be408c810c38b6fad53
+      internalID: -2054966741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f500f6d9629b6d346a74dd6d7255b28c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MoonSlash_00: 199476230
+      MoonSlash_01: 778170206
+      MoonSlash_02: -1044363338
+      MoonSlash_03: 425861393
+      MoonSlash_04: -1849847171
+      MoonSlash_05: -161114956
+      MoonSlash_06: -2039285212
+      MoonSlash_07: 556830345
+      MoonSlash_08: -1833757830
+      MoonSlash_09: -205402495
+      MoonSlash_10: -504945470
+      MoonSlash_11: -1252541949
+      MoonSlash_12: 269765891
+      MoonSlash_13: -2054966741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

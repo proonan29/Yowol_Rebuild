@@ -1,0 +1,62 @@
+{
+ "Character_running/Run_0.png": {
+  "score": 0.572,
+  "scale": 0.93,
+  "cx": 203,
+  "cy": 116,
+  "flip": 0,
+  "w": 310,
+  "h": 405,
+  "bb": [
+   0,
+   0,
+   279,
+   404
+  ]
+ },
+ "Character_running/Run_1.png": {
+  "score": 0.574,
+  "scale": 0.83,
+  "cx": 206,
+  "cy": 122,
+  "flip": 0,
+  "w": 290,
+  "h": 405,
+  "bb": [
+   0,
+   7,
+   280,
+   404
+  ]
+ },
+ "Character_running/Run_2.png": {
+  "score": 0.572,
+  "scale": 0.93,
+  "cx": 203,
+  "cy": 116,
+  "flip": 0,
+  "w": 290,
+  "h": 405,
+  "bb": [
+   0,
+   0,
+   279,
+   404
+  ]
+ },
+ "Character_running/Run_3.png": {
+  "score": 0.574,
+  "scale": 0.93,
+  "cx": 209,
+  "cy": 120,
+  "flip": 0,
+  "w": 310,
+  "h": 405,
+  "bb": [
+   0,
+   7,
+   302,
+   404
+  ]
+ }
+}

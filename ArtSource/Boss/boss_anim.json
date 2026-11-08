@@ -1,0 +1,89 @@
+{
+ "cell": [
+  784,
+  600
+ ],
+ "pivotPx": [
+  392,
+  424
+ ],
+ "pivot": [
+  0.5,
+  0.7066666666666667
+ ],
+ "pixelsPerUnit": 256,
+ "clips": {
+  "Boss_Float": {
+   "frames": 5,
+   "durations": [
+    0.17,
+    0.17,
+    0.17,
+    0.17,
+    0.17
+   ],
+   "loop": true,
+   "source": [
+    "Boss/Walk/Walk_01",
+    "Boss/Walk/Walk_02",
+    "Boss/Walk/Walk_03",
+    "Boss/Walk/Walk_04",
+    "Boss/Walk/Walk_02"
+   ]
+  },
+  "Boss_Cast": {
+   "frames": 4,
+   "durations": [
+    0.13,
+    0.09,
+    0.12,
+    0.2
+   ],
+   "loop": false,
+   "source": [
+    "Boss/Attack_0/Attack_01",
+    "Boss/Attack_0/Attack_02",
+    "Boss/Attack_0/Attack_03",
+    "Boss/Attack_0/Attack_04"
+   ]
+  },
+  "Boss_Death": {
+   "frames": 15,
+   "durations": [
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08,
+    0.08
+   ],
+   "loop": false,
+   "source": [
+    "Boss/Death/boss_death_01",
+    "Boss/Death/boss_death_02",
+    "Boss/Death/boss_death_03",
+    "Boss/Death/boss_death_04",
+    "Boss/Death/boss_death_05",
+    "Boss/Death/boss_death_06",
+    "Boss/Death/boss_death_07",
+    "Boss/Death/boss_death_08",
+    "Boss/Death/boss_death_09",
+    "Boss/Death/boss_death_10",
+    "Boss/Death/boss_death_11",
+    "Boss/Death/boss_death_12",
+    "Boss/Death/boss_death_13",
+    "Boss/Death/boss_death_14",
+    "Boss/Death/boss_death_15"
+   ]
+  }
+ }
+}

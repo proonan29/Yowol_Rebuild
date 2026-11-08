@@ -1,0 +1,834 @@
+fileFormatVersion: 2
+guid: acd1457c7adfac84983defc65631a234
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7351836534762495286
+    second: Player_atlas_1_0
+  - first:
+      213: -3207025674694149989
+    second: Player_atlas_1_1
+  - first:
+      213: -5115196846463359713
+    second: Player_atlas_1_2
+  - first:
+      213: 6600162506784561518
+    second: Player_atlas_1_3
+  - first:
+      213: -8534609914244854027
+    second: Player_atlas_1_4
+  - first:
+      213: 3685396135702272746
+    second: Player_atlas_1_5
+  - first:
+      213: -2024944527765073576
+    second: Player_atlas_1_6
+  - first:
+      213: 6437143324205041688
+    second: Player_atlas_1_7
+  - first:
+      213: -8859193991667203690
+    second: Player_atlas_1_8
+  - first:
+      213: -300537468828148793
+    second: Player_atlas_1_9
+  - first:
+      213: -592835177384840910
+    second: Player_atlas_1_10
+  - first:
+      213: -4607708120120328278
+    second: Player_atlas_1_11
+  - first:
+      213: -663856184324749058
+    second: Player_atlas_1_12
+  - first:
+      213: 1943665407177747518
+    second: Player_atlas_1_13
+  - first:
+      213: -5280701331332062216
+    second: Player_atlas_1_14
+  - first:
+      213: 3469198448548191989
+    second: Player_atlas_1_15
+  - first:
+      213: -1634175443212940390
+    second: Player_atlas_1_16
+  - first:
+      213: 5801817680260678448
+    second: Player_atlas_1_17
+  - first:
+      213: -6412228677769863804
+    second: Player_atlas_1_18
+  - first:
+      213: -6951626784398697841
+    second: Player_atlas_1_19
+  - first:
+      213: -1575283147553055837
+    second: Player_atlas_1_20
+  - first:
+      213: 7037435123377840516
+    second: Player_atlas_1_21
+  - first:
+      213: -6380840293557306055
+    second: Player_atlas_1_22
+  - first:
+      213: 218595620740680314
+    second: Player_atlas_1_23
+  - first:
+      213: -8904419126496398348
+    second: Player_atlas_1_24
+  - first:
+      213: -5142307973883241229
+    second: Player_atlas_1_25
+  - first:
+      213: 6394293593936791141
+    second: Player_atlas_1_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Death_03
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 332
+        width: 265
+        height: 326
+      alignment: 9
+      pivot: {x: 0.35472, y: 0.0092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d112ddce6b3bbdc4ba638c8085b3d51c
+      internalID: 1230478160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_04
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 354
+        width: 367
+        height: 304
+      alignment: 9
+      pivot: {x: 0.37875, y: 0.01316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a8a5e5a7c641c43a616fa5e463a5a7
+      internalID: -549524478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_05
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 110
+        width: 377
+        height: 218
+      alignment: 9
+      pivot: {x: 0.41379, y: 0.01835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7dea916a213704d854610b84879c98
+      internalID: 723230125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_06
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 187
+        width: 427
+        height: 141
+      alignment: 9
+      pivot: {x: 0.38173, y: 0.02837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f7c4185325f8e4cad0d87eb1e20133
+      internalID: 69862288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_07
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 204
+        width: 408
+        height: 124
+      alignment: 9
+      pivot: {x: 0.42647, y: 0.03226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e78d9f849e37d469f0000c0b8a8518
+      internalID: -1343733261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_00
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 370
+        width: 283
+        height: 288
+      alignment: 9
+      pivot: {x: 0.33922, y: 0.01389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fff55635808cd64898f461643976dda
+      internalID: -1405687692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_04
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 671
+        width: 285
+        height: 350
+      alignment: 9
+      pivot: {x: 0.34035, y: 0.01143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c2df4a9526667418eea8a31f761c97
+      internalID: -2057128145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_05
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 679
+        width: 289
+        height: 342
+      alignment: 9
+      pivot: {x: 0.34256, y: 0.0117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f2b3b2eb161a742aaf8d8bdfec9499
+      internalID: 378037634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_08
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 661
+        width: 310
+        height: 360
+      alignment: 9
+      pivot: {x: 0.35484, y: 0.01111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed68a171a7448f44b1d303d7ca5f848
+      internalID: -1849736215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_09
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 683
+        width: 283
+        height: 338
+      alignment: 9
+      pivot: {x: 0.33922, y: 0.01183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b0e3801342fb34095baa1c827a944f
+      internalID: 320612234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 390
+        width: 291
+        height: 268
+      alignment: 9
+      pivot: {x: 0.34364, y: 0.01493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0c9bd3c5f69b64bbcda88e65e029ab
+      internalID: -2134216430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_00
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 331
+        width: 435
+        height: 327
+      alignment: 9
+      pivot: {x: 0.61379, y: 0.01223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a082521c1107b3640ac79d461c4bb886
+      internalID: 832812074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 680
+        width: 418
+        height: 341
+      alignment: 9
+      pivot: {x: 0.61962, y: 0.01173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e248a0ac96c78241887bc9089ee41cc
+      internalID: 858865212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_00
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 693
+        width: 266
+        height: 328
+      alignment: 9
+      pivot: {x: 0.5188, y: 0.01524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9660f47fe1da887488db43e83c4da1ad
+      internalID: -689557288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_04
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 678
+        width: 259
+        height: 343
+      alignment: 9
+      pivot: {x: 0.51737, y: 0.01458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1718341834c17164e936390540504857
+      internalID: -1515518564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_10
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 347
+        width: 274
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5146, y: 0.01608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8309c4f111da346beb4b7ed48f2088
+      internalID: 476253384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_JumpInPlace_11
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 343
+        width: 259
+        height: 315
+      alignment: 9
+      pivot: {x: 0.51737, y: 0.01587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28ebbab5a1100c4d9b9ebe518f84e3a
+      internalID: 465938553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_JumpInPlace_00
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 362
+        width: 283
+        height: 296
+      alignment: 9
+      pivot: {x: 0.4311, y: 0.02027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a8bee5467be64292a557d60e3ae9e
+      internalID: 1299506457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_JumpInPlace_01
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 667
+        width: 260
+        height: 354
+      alignment: 9
+      pivot: {x: 0.42308, y: 0.01695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f160bb93d9fcf44b7d33c2a4487ff8
+      internalID: -339975564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_JumpInPlace_04
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 673
+        width: 268
+        height: 348
+      alignment: 9
+      pivot: {x: 0.42537, y: 0.01724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b1b5bdf4323cd4dbf8c8e5933bd251
+      internalID: 662743140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_JumpInPlace_05
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 690
+        width: 261
+        height: 331
+      alignment: 9
+      pivot: {x: 0.42529, y: 0.01813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2c20c62d134ea4d9ffbbb1a7eb8859
+      internalID: -417401615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_JumpInPlace_10
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 361
+        width: 280
+        height: 297
+      alignment: 9
+      pivot: {x: 0.42857, y: 0.0202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8861426984ea549a391d1c67b1f9ba
+      internalID: 1363267885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_JumpInPlace_11
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 363
+        width: 277
+        height: 295
+      alignment: 9
+      pivot: {x: 0.42599, y: 0.02034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622dd95325fa308469602ec1d5487ec6
+      internalID: 1591183375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_JumpInPlace_00
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 693
+        width: 397
+        height: 328
+      alignment: 9
+      pivot: {x: 0.6927, y: 0.01524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6928ea1caa6c884cb68c3b28950a780
+      internalID: 502478756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_JumpInPlace_09
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 662
+        width: 392
+        height: 359
+      alignment: 9
+      pivot: {x: 0.69643, y: 0.01393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20de8942385d77445b26581a7910096f
+      internalID: 1784923559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_JumpInPlace_10
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 346
+        width: 403
+        height: 312
+      alignment: 9
+      pivot: {x: 0.68983, y: 0.01603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dd71563ad599b45a27153ae7c3b502
+      internalID: -1924223351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreatSword_JumpInPlace_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 336
+        width: 397
+        height: 322
+      alignment: 9
+      pivot: {x: 0.6927, y: 0.01553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9741a880f7d96244dbf5a7f335036184
+      internalID: -2006518224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5cbb6d4ff9237994ba499fac24d0da42
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bow_JumpInPlace_00: 1299506457
+      Bow_JumpInPlace_01: -339975564
+      Bow_JumpInPlace_04: 662743140
+      Bow_JumpInPlace_05: -417401615
+      Bow_JumpInPlace_10: 1363267885
+      Bow_JumpInPlace_11: 1591183375
+      Bow_Jump_00: -1405687692
+      Bow_Jump_04: -2057128145
+      Bow_Jump_05: 378037634
+      Bow_Jump_08: -1849736215
+      Bow_Jump_09: 320612234
+      Bow_Jump_10: -2134216430
+      Death_03: 1230478160
+      Death_04: -549524478
+      Death_05: 723230125
+      Death_06: 69862288
+      Death_07: -1343733261
+      GreatSword_JumpInPlace_00: 502478756
+      GreatSword_JumpInPlace_09: 1784923559
+      GreatSword_JumpInPlace_10: -1924223351
+      GreatSword_JumpInPlace_11: -2006518224
+      GreatSword_Jump_00: 832812074
+      GreatSword_Jump_10: 858865212
+      Sword_JumpInPlace_00: -689557288
+      Sword_JumpInPlace_04: -1515518564
+      Sword_JumpInPlace_10: 476253384
+      Sword_JumpInPlace_11: 465938553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

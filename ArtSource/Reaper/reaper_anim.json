@@ -1,0 +1,33 @@
+{
+ "cell": [
+  464,
+  440
+ ],
+ "pivotPx": [
+  232,
+  32
+ ],
+ "pivot": [
+  0.5,
+  0.07272727272727272
+ ],
+ "pixelsPerUnit": 256,
+ "clips": {
+  "Reaper_Walk": {
+   "frames": 4,
+   "durations": [
+    0.16,
+    0.16,
+    0.16,
+    0.16
+   ],
+   "loop": true,
+   "source": [
+    "Monster/Monster_0",
+    "Monster/Moster_1",
+    "Monster/Monster_2",
+    "Monster/Monster_3"
+   ]
+  }
+ }
+}
